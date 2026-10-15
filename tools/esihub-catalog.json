@@ -1,0 +1,4740 @@
+{
+ "meta": {
+  "source": "esihub.net",
+  "crawled": "2026-10-09T20:12:39.706Z"
+ },
+ "courses": [
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "1.1",
+   "title": "1.1 Architecture des ordinateurs",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1yIJR-VUPfasOJW6NWcrMwKYq2nMQHYYA",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "1.2",
+   "title": "1.2 Système d’exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mTFplxxohLGJjBcqeg3CU0QZWwkKnTtE",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "2.1",
+   "title": "2.1 Algèbre matricielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/11jxn70rjdcOuqFuG_GPKLpqMjF48sKbA",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "2.2",
+   "title": "2.2 Analyse",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1iqc7kgA824dOByKQ1I97b3X7qtKEfWHA",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "3.1",
+   "title": "3.1 Algorithmique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1gW3py3n7I54Jyh_6dYvl2OgqhqQ-tKPV",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "3.2",
+   "title": "3.2 Programmation Python",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hz35M3rKYuaTRRRpxIv2KLhU6IAfW2cG",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "4.1",
+   "title": "4.1 Gestion électronique des documents",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1e6fn5vLkKVcuDFNXe_6mGjK_4cZlBone",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "4.2",
+   "title": "4.2 Documents structurés",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/18McpHw7TPcbI5CGrzSjtK142HvkTR0Na",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "5.1",
+   "title": "5.1 Initiation aux réseaux informatiques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1E1r3pdwQxJREKP_TGpBZhjLkszmqDu5b",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "5.2",
+   "title": "5.2 Réseaux sans fils et mobiles",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1l-BqfQ6jcyXoZTcOad7rFfJT6quc8_kh",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "6.1",
+   "title": "6.1 Théorie des graphes",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ecX5_jrMTfWqvGOa3y1zxaKHVBpLiRdB",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "6.2",
+   "title": "6.2 Optimisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/11cDIgk3clqE_cT2kyvEu1AhRaKy0eVW2",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "7.1",
+   "title": "7.1 Économie générale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1vHya_8jdB_uy89_gtpC-MLOCRn4tI6ul",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "7.2",
+   "title": "7.2 Micro et Macro-économie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1MKeVLCNrVzTxhM-eO1dBaB0dXjrhxsI-",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "8.1",
+   "title": "8.1 Techniques d’expression et de communication",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1SQgTBTu4VNfodXgm3G0Ghhno7La1YT2g",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "8.2",
+   "title": "8.2 English for General Purposes 1",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1AlUA8zj4sjk7kD3MB-rLN5EKy4mIgLfT",
+    "examen": "https://drive.google.com/drive/folders/1EJgxWve_cVwK2iYFO1LMiDLkMHzqJwjV",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "M.1.1",
+   "title": "M.1.1 Analyse et Conception des SI Relationnels",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1IIR5SlyNRJMNVXJgxDxYS2NUIYFNZwci",
+    "examen": "https://drive.google.com/drive/folders/1Tn1phwAC5Cn8kae5WFg8JR5xmban2G29",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "M.5.1",
+   "title": "M.5.1 Entreprise Content Management (ECM)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hRtM5zfwU8ZnV2yyLQ7D1ISZsjKHDJpc",
+    "examen": "https://drive.google.com/drive/folders/1Tn1phwAC5Cn8kae5WFg8JR5xmban2G29",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "M.7.1",
+   "title": "M.7.1 Management et Marketing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hN9dLT3SNKXITS6nU06sNqC6sZ3m_qN8",
+    "examen": "https://drive.google.com/drive/folders/1Tn1phwAC5Cn8kae5WFg8JR5xmban2G29",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "M.7.2",
+   "title": "M.7.2 Comptabilité générale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1w0QffRZRbjSj30tcUkwta4c8sW29YTj1",
+    "examen": "https://drive.google.com/drive/folders/1Tn1phwAC5Cn8kae5WFg8JR5xmban2G29",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "M.8.1",
+   "title": "M.8.1 Techniques d’expression et de communication 2",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Sda2Frmhp01QmezizxYDIyPDVCeFruMy",
+    "examen": "https://drive.google.com/drive/folders/1Tn1phwAC5Cn8kae5WFg8JR5xmban2G29",
+    "resume": "https://drive.google.com/drive/folders/14M_T-G13mjeB4uASS4hUulzE2if3s8o2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.1",
+   "title": "M.3.1.1 - Management de projet SI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1DQFBZYVxOJ48t25W76Xxa-vPSSlnNVMd"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.1",
+   "title": "M.3.1.2 - UML",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1BL6O2I7bfmkXxJ15L7Puudl7qUdIVVJh"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.2",
+   "title": "M.3.2.1 - Java",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1fhgfPQyOYA8ZefJplJBwUUfKT-k1eMqT"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.2",
+   "title": "M.3.2.2 - Projet OO",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qLXhl32SaSJB4P6FsP1_39ty7fqT-Si5"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.3",
+   "title": "M.3.3.1 - Statistiques Inférentielles",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1cBqtYAOeDhTA87o-PLtYYqffMsE5D5Ct"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.3",
+   "title": "M.3.3.2 - Processus Stochastiques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1aezQ1HP-sfEhQ-SFQR1d9HgxYv4_7qzd"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.4",
+   "title": "M.3.4.1 - Théorie de l'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Ma4TWG4YpKLxODzc-zgCOW_t1W92M7-m"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.4",
+   "title": "M.3.4.2 - Traitement de signal",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1My4-E0kewKzh21NVIcpXMKFnfE84n74G"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.5",
+   "title": "M.3.5.1 - Intelligence Artificielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1upAztVysx5kIcBRfUBskD3blmTR4KuFh"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.5",
+   "title": "M.3.5.2 - Ontologie et Sémantique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1zwV6g04cEs7MQQ4Pb7qFVw8zZo39_xBe"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.6",
+   "title": "M.3.6.1 - Analyse des Graphes (SNA)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1T9U1UkYcRu4e1qTovcPIiPq9ztEZung2"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.6",
+   "title": "M.3.6.2 - Méthodes d'Optimisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1YxNdOdZcWRP-0BAvUYn19Xb7iZJIMFtS"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.7",
+   "title": "M.3.7.1 - Data Scraping and Acquisition",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1TAl7zCz8V5tucuXudS4Fm5fOkwZhLPnj"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.7",
+   "title": "M.3.7.2 - Data Analysis",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1W-HPJBEWfoJC1yCSCyDaEnol6a79FXk5"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.8",
+   "title": "M.3.8.1 - Project Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/13LFsBp6_e0Xj9Cg4ADSff6q8QoeBJlik"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "M.3.8",
+   "title": "M.3.8.2 - Culture entrepreneuriale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1oXlZsREZLsoPmSCt8rpEnEP3fe2htkpU"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.1",
+   "title": "M.4.1.1 - Java EE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1LRFSMD62pnQzypPf5k5LXDxLKcu_XYvA"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.1",
+   "title": "M.4.1.2 - Développement Mobile",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Rn3GR8piZV74aOxsi-yvIJ3Jex3Ihj58"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.2",
+   "title": "M.4.2.1 - PLSQL et SQL avancés",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hdZ2qxw4bpHbJqmhSOzOr3HuriyYN5dr"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.2",
+   "title": "M.4.2.2 - Base de Données NoSQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1vqoOfcnZVXxCJEIFQcjMgDQpuB9-RA9i"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.3",
+   "title": "M.4.3.1 - Modèles de régression",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/13CfgzWcboIpNg-FZARnRH9krVlCqz8_Y"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.3",
+   "title": "M.4.3.2 - Séries chronologiques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GIzXIEGTMQyX4EzO_Nxy65M2EfvRcJas"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.4",
+   "title": "M.4.4.1 - Bayesian Machine Learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1rasZhtxUGS-KRM3gi3j68Rudnc8O5VYW"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.4",
+   "title": "M.4.4.2 - Advanced Machine Learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1WDhfMM-jlMqjekpqScfuoGQ0YQAWujFG"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.5",
+   "title": "M.4.5.1 - Systèmes et algorithmes répartis",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12avZldVojvyKy14yUP6uklU2BF9v1NNO"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.5",
+   "title": "M.4.5.2 - Virtualisation et Conteneurisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CKCOTS3dB-pwu-TdC3oFOnumqsCCXO2E"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.6",
+   "title": "M.4.6.1 - Cryptocurrency & Blockchain",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1DQagr_OrYIX59rq12NPtNUf4wkFk9Ne8"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.6",
+   "title": "M.4.6.2 - Projet Securité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1799wcjf0GukM2bjYD_WgBiVyjrX077Da"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.7",
+   "title": "M.4.7.1 - Cadre normatif de la sécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1xaygbUu2Iun0P_imXmQpQMbDOM8akNsC"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.7",
+   "title": "M.4.7.2 - Transformation Digitale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/15QaIvVtNm4IjHTHNaIgyS7yYd4tOTPav"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.8",
+   "title": "M.4.8.1 - Communication Professionnelle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ptAGc-_vUdjWa3Wx1k6sUhBFUBmRgT2a"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "M.4.8",
+   "title": "M.4.8.2 - Business English",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1blElXtF3n57nbAptvU8-3LXNjGNJ0li_"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.1.1",
+   "title": "M.1.1 - Business Intelligence",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1E9QgRuiKdOt5gHeqcwcYzI6TqUJHAMVS"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.1.2",
+   "title": "M.1.2 - Projet BI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1z7AGEVI7wJEIDDo_bG8qVJ7vQ4KSvjpv"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.2.1",
+   "title": "M.2.1 - Data Modeling",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1s67S8Rd_AJxqLSAQqxxrHqpIZCBcXuus"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.2.2",
+   "title": "M.2.2 - Big Data Platforms",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ITenIhQJUw5c7VvY39MKRRJvWDBBaQHw"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.3.1",
+   "title": "M.3.1 - Big Data Analytics",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1uX8Wl6vO2s_OyNwxtBeYNSKfhcmbqWy7"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.3.2",
+   "title": "M.3.2 - Deep Learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1zAhebXf9SwTlEtJxxAsV0s-tiFBR9yxD"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.4.1",
+   "title": "M.4.1 - Cloud Computing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1H5p26EJdxitUxVRMYdaVE6mhGdP5QphE"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.4.2",
+   "title": "M.4.2 - Internet Of Things (IoT)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1A0ETK8xgbIaMT5NdVezu5CxzmL0WsflZ"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.1",
+   "title": "M.5.1 - Computer Vision & Pattern Recognition",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ZiyMNapnTHizcvmKBvLNe9dsAXmIBZu3"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.2",
+   "title": "M.5.2 - Projet CV",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1iwx6ZaBveC67-DjktgvAcPfeISaqQd4o"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.6.1",
+   "title": "M.6.1 - Text Mining and Analytics",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1dRGdIO7C7YBKv9TVtBKxg7eI1eqaYFmC"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.6.2",
+   "title": "M.6.2 - Cognitive Computing and Knowledge Graph",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12FaladO8reeSAbY4PhFOy5UBTmgMJxVN"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.7.1",
+   "title": "M.7.1 - Risk Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qH5-f3J9mifyShKWBvu87pTkmfUvpjeD"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.7.2",
+   "title": "M.7.2 - Startup et Innovation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1eRVxbitpVMo-CRBbhBOeSPe9PEbCFT8Q"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.8.1",
+   "title": "M.8.1 - Méthodologie de réalisation du PFE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1LrSEKjUrSYiwlIMKhfUOHUFqU1iusnAU"
+   }
+  },
+  {
+   "branch": "ICSD",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.8.2",
+   "title": "M.8.2 - Préparation au TOEIC",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1S8Jaua7Fvpi3svDFqn8pKPOV_cBDjkzd"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Algorithmique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1FDpdZB5cD_IQ7lH1qp-q-Fnd7LIXA-qB"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Distribution",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1TBpnSMqfEsRtN-xLc8_FzL77dp4SXL1h",
+    "examen": "https://drive.google.com/drive/folders/1DMK7i57didu7YzTTCunYjYs32-yztmnM"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Démarche Documentaire",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CjpJxvD5RQGPO71RucmEpEzpjTULJt7u"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Introduction aux microprocesseurs 8086",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1DZ-e9bSQMRfV2sBkqLIaQUBEQnxgbvQT",
+    "examen": "https://drive.google.com/drive/folders/10Vrq1yRgmCTYgJJKBlDIKXR9njDkdGlJ"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Introduction à la science et technologies de l'information - ISTI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1098bqRg1Dnlhdg84nDQKObiTYzOKiiO0"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Langage Python",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nuF_OGnEphVBFHxKJd24zFI8fh-wLCjr",
+    "examen": "https://drive.google.com/drive/folders/14dPc7Sx0nr1GAotz3fnhTL-MQ3CJC89c"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Logique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qcqny8OT7yE4XokqJ-6sYZgyfA166coM"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Optimisation Simplexe -OS",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1XyZXGL9XJm-T2GQMoJjX_iQc8F7koDKu",
+    "examen": "https://drive.google.com/drive/folders/1F3eRkhHSsmd5W1OPTgpc5u5uH4ryF3cD"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Sources d'information en science sociales et humaines - SISSH",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1_dPwzCgKPiYVSpE26Vrh9D9JTb5NYCL2",
+    "examen": "https://drive.google.com/drive/folders/1scTOd0kVbn2tCSDUjJezfKRfBziyTVRh"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Sources d'information en sciences et techniques - SIST",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1eNUQndsKjKdYg1VDAoWB4nMWF0pIVfHA"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Sources d'information générale - SIG",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1IEqUVgmbSvsEqKk1Mavdg1Gy39j0KTBA"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Systemes d'exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1gL3fcDPha5hHBPzhDdFawO7HAl6MvnDJ",
+    "examen": "https://drive.google.com/drive/folders/1dsGQ9HnE2zvrte1Otxzxnc8wMSyQzmQ3"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "TEC 1",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1IHA0rPDrQ1t-EHkURot9NFFHEt7froYr",
+    "examen": "https://drive.google.com/drive/folders/1IHA0rPDrQ1t-EHkURot9NFFHEt7froYr",
+    "resume": "https://drive.google.com/drive/folders/1IHA0rPDrQ1t-EHkURot9NFFHEt7froYr"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Théorie des graphes - TG",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1SwtxQbCfzIscsloiL-1n8P2uZ5bqtNRx",
+    "examen": "https://drive.google.com/drive/folders/1FUeZ-EMVG8ZZ6uafvOw-D8j3SPiU_cPJ"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Algorithmique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1_KinIACIHBdhvryU8khMcMVX9aUEBeS_",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Anglais scientifique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1R9qeg-r8M7oQq6HAsh1JetpN2TgXE9J9",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Anglais TOIEC",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1a2kHpQBdUb2KdT8RoOnOkp37vKj3TVql",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Architecture des ordinateurs",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Rhte3N88PaW4zOB-99gFWxRKtXg0nqaL",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Distribution",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1pcVhreJVM3RRal1khJ7QRcSbqRuOfkRI",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Démarche Documentaire",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/11EoISD3fVqre6aDZ9CvLRUOjtX7BjDua",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Introduction aux microprocesseurs 8086",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ex2fWiR1jxNcbjz3HNMw3zA4U2051rM6",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Langage Python",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1OdSMibLj9qJots-GQX5rJMj3q2kBp-OJ",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Logique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ORWW5v7A7fGLj2cyCpX0NZq5evP6Ef_V",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Optimisation Simplexe -OS",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1pz3Ldum7jxnKpat68kjptilsnnmWSXmn",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Sources d'information en science sociales et humaines - SISSH",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1OKi0QV32VzVCw_Z5CDdoBFhJWXs1kpka",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Sources d'information en sciences et techniques - SIST",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1dPzosCVeUABoXUw5m6fK_FOKSKyepB9-",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Sources d'information générale - SIG",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Q2MaydGQppiMxc2ZNpeImtMbiwCQO6SG",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Systemes d'exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1obk9A5uLD-Wp1Qh4IB9vD9FssLFA4A6t",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "TEC 1",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/14lB89CeEhcMuZpQopCvTm4V_BpagdUC_",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S1",
+   "year": "2023",
+   "code": "",
+   "title": "Théorie des graphes - TG",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1yEp1sc9YoOBObSsdRgX9aXXJwO6hO-YS",
+    "examen": "https://drive.google.com/drive/folders/1_K7MxaRRIMekIWbBaSJ25XxViQS3avT9"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Administration des bases de données sous ORACLE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1tv-NvZWTDoBa8y7FwheXvWBfpd26TM50",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse documentaire",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1_y4gZJmCqhPEP_AFJ6eWA667K3IR3rxH",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse et traitement informatisés de textes",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bav5XdLiFYl5G6nNVFd0_wKDih8DfvCr",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "CMS en PHP",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Qp5wjziSIDIdvJySGoPjFECOdCRUlODb",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Comptabilité générale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NNpJCOCOVPPbjK7m7yPplsi3Q3necwJS",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Description des documents (MARC et métadonnées)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1oygSn8la67tHE6vEo86joHRfoipsXWw6",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Langage SQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qRcAAIcLoYe4tIFjjtNCtHXpTZcjM7Sy",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Le langage PL-SQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1-91jlHZ8eCOGuegJtA2UzKCMxLC0iM5h",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Macro-économie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/18rncdI6P6OgJGpG-0ySRT-Yz4jKqfNcz",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1xbWzE6cmolXN325uyyxYGDaUKXPcSWn0",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Marketing -",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1VYUNu4dhuq_aUA2W1CUtGxCJwMYxdvq5",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Micro-économie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1IA8km8fgbjQarTqGIFong6JbZE3Cb8ti",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "PHP (y compris html, xml, javascript...)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1tt2qZUp41Pvb724GMLn7N7KcbzvtdwLu",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Plateformes collaboratives",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1gRlp6pO0Q9f1B0_kCr1k4MFEdF856CRX",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Probabilités",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GpY3nTk9uHAeMhqbrG-q4iHSr_5B8Cpn",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R",
+    "resume": "https://drive.google.com/drive/folders/1UIcUuCkA0VPQWRRFT-AQMn8ObO91OcA3"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Réseaux informatiques et services mobiles",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1lMD0No6MrQq8XwIPAd-ab--whnse_NOL",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "SRD",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nFeYC_XE8dqrCk7ZFYPFtA1Ir6emoUU8",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "TEC2",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1MdzRmskWdnjA934PDfdxwoR1aYPPZSeF",
+    "examen": "https://drive.google.com/drive/folders/1UAMlfC8mxE820gojBvSxTL2ycT-7Ct-R"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Communication des organisations",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1fJYa8Zkq5Nbga8MWgsqhRgdBNlqpmGNF",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Contrats & marchés publics",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/17nZnZbOL-SVzpFH1pGWKu4kP2jOS-kSk",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Diplomatique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ziFUvaMLQNZl35iMSHqRQmUol8i1HeOi",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Droit d'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Th7KFEyWxB7wgqYvzY87L6VilGOqiUqy",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "GED",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1_4g-bvzQa5ZEXFp9mDotB_7cESehw1LP",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Gestion budgétaire",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1I7YYnA5qZccQJf_MdeMU2kpGNaMIucpZ",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Gouvernance documentaire",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1HdtbhCLBUurznNbDPB5lYor226tk_HbB",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "JAVA",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1LjCuOYqG4qfYp2dgp5VzWHJncvNZNFsZ",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "JEE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1B4avDL-efbSOa1luNgnlbHYTu5iVwStZ",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Langage et Indexation matière (Rameau)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1AakqWH8dgzM-jO7eY6KfWvxBcX4qCoKE",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Project Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1k8XoLyy-iMljRl9HE8w80CT2tJCLi3XO",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Risk Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1pbTqRL2WF0IfTwz_F_FAuV7cIOVLCDO5",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Système d'archivage électronique (SAE)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bAdfu87uyMoyU9AXQr_2XqEG34gYm9l_",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Thésorus & Ontologies",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1lIagP_Bajpbbh_IKaEpRZnbdIGioZdgZ",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "TOIEC & AS",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/14A6DI5f98m_mhjQx2PtMuJmMdKk0pbGB",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "UML",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1YXifZrR4PAv7nuDq2bXUgJyURHymuXMX",
+    "examen": "https://drive.google.com/drive/folders/1xjPxU0vgKj1oGZKXILy2bRrNR4YzLAuj"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "1",
+   "title": "1- Economie de l'information et du savoir",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1weuwuPafkxyG5HlLPnj3s7tVLAqs3ndn",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "2",
+   "title": "2- Méthode de collecte, traitement et analyse de l'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1xxX7afBCrdC040bcagjqjNywEZSX3pRh",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "2",
+   "title": "2- Théorie de la décision et des jeux",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1LRdHTXKvj133sdyFrgew7ZbV9nnn0lwy",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "3",
+   "title": "3- Knowledge management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10sN2YgYm_BbtIcbUa5rM0nvqksTcLfI7",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "3",
+   "title": "3- Management de l'information stratégique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bZioiNKV1Eko_LJc4z_KALdwwGlsNtbG",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "3",
+   "title": "3- Veille stratégique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CWWQG1ZIIe3LYCQuWXhf3cOt_L5DALNU",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "4",
+   "title": "4- SPSS",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Ca9zK_7LsQ2e5kCV88_6nBwZOgxyRTi0",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "4",
+   "title": "4- Statistiques appliquées aux sciences de l'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Q_hKgO-6azuXVg9tF56g3rSf9DtofZJf",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "5",
+   "title": "5- Logiciels de records management (Maarch et Alfresco)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1TL4CqvCAAq9s0P67932hXOExgUbG0T6Q",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "5",
+   "title": "5- Systèmes intégrés de gestion de médiathèques (PMB et KOHA)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1RIlviAvyNJjr1s-mW6gl_wXmakfL439J",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "6",
+   "title": "6- Culture entrepreneuriale et création d'entreprise de l'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1RrUl61Vgji-rrhGWkBGm6UwgUmWfWadn",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "6",
+   "title": "6- Management et évaluation des services d’information documentaire",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1eHEaSxxiSwGw9d4izYAiOqYDYMqLuEHh",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "7",
+   "title": "7- Conduite de projet d'informatisation des SID",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1AHEs9TXRVU1UHJ2gQQ5aMgUBmu9YCthe",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "7",
+   "title": "7- E-Services",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1crZ6Lk89tl_rasLkkdnKgzNCYuy8S3Vt",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "8",
+   "title": "8- Intelligence artificielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1WdUJY7bjkQazkX8w1CgyJg_pPAicbPlY",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "8",
+   "title": "8- Systèmes experts",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1YrD4aUVfbNCbPPD2qs2Hc0i2CRoiykI-",
+    "examen": "https://drive.google.com/drive/folders/1pU0Zw-IRgunj2UKEFvkchO0wStFK_043"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "GDC 2020",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1J_Z1HgQGjez2yaDfY_MLPmy7J01LNAJp",
+    "examen": "https://drive.google.com/drive/folders/109vkmiq3kFDaFkonypEJVqBNETXB4dj2"
+   }
+  },
+  {
+   "branch": "IDC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "GDV",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1r37lGQeczQqTiOBB1XoJKEHxZLswX24m",
+    "examen": "https://drive.google.com/drive/folders/1iyLaIS0_ztSCLXy67veXBFWFPRFdoyGv"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Algebre",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/16RR56hbMim0ZcautGEbRfdJn2RTp5506"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Algorithmique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/15gL1Y72_In8loqXl6vX7qfHitA82GzBh"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CZNa_bu0-aj8ZL_2NYTogO6bEQIu__BT"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Architecture de l'oridinateur",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bhZkQcHUIQFT0T2TdlRLxorvXrUweexq"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Documents structuré",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1BQz7xfzM5BQkfxKTEfXx7K_W_zxG-Q_H"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Economie general",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10HinsLmEyVdEwZXiVUzCW4jczeCVetad"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "GED",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1luBqXwNy5RkQvgTFezlwiuLUUNFuxhc9"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "INITIATION AUX RÉSEAUX INFORMATIQUES",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CX9c2IHACKCJTTyAF0fBDnMueGzeW_-e"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Language C",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Lv5zWCL_CP0m4DV6FIR_qnsWRF1Wpu5z"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Micro-Macro",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1yA_K9XmicHN0TqQQEMIEzdNRNKfPYprM"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Optimisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nNoS2Wrs8ZrZhr_tU7oG5LZR62zUf2j2"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "System d'exploiatation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1QRGiRKdXYIzSpwRIfktJx4715eUImUct"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "TEC",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12Wqd-YL-Ppcob7g0RSY3wfJDro0bsyaF"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Theorie des graphes",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1gPrxeQXeRoLdM34NgwuA1sqzOEcQXctE"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Algorithmique avancé",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Y0z8uvKft1JrChPnjvBaJp7lWeSv8FBy"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse et Conception des SI Relationnels",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1just8Jsg4gW6ShyrLNu-atQb3a4ZGcG-"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Comptabilité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/18IpWb_i6FW7UZPvAcCg5GTuskNdsuUUa"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "E-Services",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NB6mAn70u8jsOs2pn7Ecs9SE9iiLw69T"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "ECM",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ndiYxL6bAzWOmFd8EQMN69OpAducDAjJ"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Knowledge managment",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nwI2VyQoKg3t9Ldfxz1nI_UII6yr2Ag4"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Managment te Mareketing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hPm2ADAxBgKkDGHeTTJOoqOiA5MROES4"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "PHP",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GaZHMPdXhwog0RsP6Zy4r7mx9SKXjk_M"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Proba",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1SQ3t-MXJgDwL4fmVzl5q16-Y2wzekZv1"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Programmation systeme",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10mvpAyuSyIte15uibxc_g9R98o-s14au"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "SQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/15_z_pvvDeIOobjSHQ3buEW6BBeSXy0xT"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Statistiques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NKiw9zBj4PD0HjCTpfeKsCqZm76vf5qb"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "TEC",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qdP9WArCCVwLDJ8AWyv5vTSCBzm9coks"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Tech Web",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1A9Iz3hKULQYXFfbKHnh8fHtoPD22NF1w"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Veille technologique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1pGiCxHychKCA7i7tlPkm0mL36Pr5QzQV"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Administration des BD",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/18va47r7dngw3okwLgNB5ZnZS-zY_1IcN"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Administration des Systèmes d'exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1HhHpglsiondhalki5Xvaqsj9wCMehqRJ"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Administration réseaux et virtualisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1-uBA70JHUOgjgUFrb3qhAAs_Q2fW3arM"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Communication Professionnelle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/101S1XxwGZANnF6O1QM0VYkce7YmR2y30"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Culture entrepreneuriale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1-4ydg_k2QYz0dLZXLrPehJKu2J6iYjbn"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Fondements de l’intelligence artificielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1DYtaQht-esVtUIOrWmuGGuqKrx6bg90t"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Inférence statistique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1DVFyyoqxlSLj4yEgWDE3GBa50aL_z7gt"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Langages pour les sciences de données",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1uYj2b3wMPJMjNBb3EvhDOFrDNvxbvuTi"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Modèles mathématiques de recherche d’information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1l6goyT1tqvuMA4GnTgAW8Ukx-t6nWDec"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Modèles mathématiques pour les sciences de données et d’optimisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/11d8Hbiyki8aGBkOUbx3gy7s_a2AQ8cRi"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Moteurs de recherche d’information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1PTDgv8L24-aB8AGv3rYKFjqrpfUz0a7e"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "PLSQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GTbxtEHdFX5Y8prGkONBb6n7BXj2BcBH"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Programmation Orientée objet",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1vJEVZO4t3sWTDT6xvPN9XiIjcNvjeJS1"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Project Managment",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Lf6qxiTHumbSiGQRkJeBBgtNQFX12Xac"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Systèmes intelligents",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1a2ojCqpKBC7VgYl5O650VZtrC-h72Ezf"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "UML",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KwwrJ_jMVEauLrI5-hXBbWIGA8ueY7RY"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Architecture d'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Slwp-sb7Ws_2f1TcSoVXHjZWOI2pKBwI"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Cadre normatif de la sécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1cD5b6Ojj1fmyu7Kc0Exum0eiZZ6lztgH"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Conduite de projet de dématérialisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Lx6P9LRpox4OiF-RaRhWCWXVwoPBBfLS"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Cybersecurity",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1gfU4W9kWW5a6EQxV713atkeWx-4N0Mr7"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Data Visualizatiuon",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Bwivw6ib2aHBS7OJCOjuP-0xBP2ayPZQ"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Gestion de contenus multimédia",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Jn1KZouZpKsWvbt8NW7Bq4SjL9Axn2bm"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Image processing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1s5ag2Z5OCkavf1GQ7drPcW4BaAKMEfyA"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Indexation et RAD",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1VLs8leQNhXLlRmO4bJnE7ndGQ0bvwbvV"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Initiation à la recherche",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KdelW7M_lUtQb8sf4bp4cxp4-Zpu-FEL"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Machine learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ihGs9txkOJxmSxpqnBYKW7hafDiqgfVi"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Management de projet Systèmes d'Information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/15gozFHDO3Nzj3sV3KEq6gRuXM_dbuw-z"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Méthodologie de réalisation du PFE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1FBvyM5NvOCMF69nQoOjklIlkC69cD026"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Ontologie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/11dU2AZLX7AFrJ24SlEL9qUANJUm_nwn6"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Systèmes d’archivage électronique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1X6IZCzHAR89lMhnBcj9EiAcn9Hf3V3Hd"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Transformation Digitale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qg7ir519cXoDgwtMzY6qV8zdwygG-jh4"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Web Semantic",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1zb4EEdwHmSrghawyl4w1XVNmIZ87Cpww"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "BI & reporting",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1srGMvdBtyZQSSQj69kxv8ThReUYu8ZMh"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Big Data Analytics",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1B1xkDEzqWJlQFQVFZL2Sv3CpgZarUeou"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Big Data intro",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/17SmMM_jvs21ULRfJjUeTLraGccRXBkfL"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Cloud computing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mfCijhX0_J5VBVfOUVlPkiqZXj_HDaI0"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Datawarehouse",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1UdfIts0KS-6kTCA19UAF-9-AGQ1ixXYF"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "E-reputation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Q4Qzz-rAAorz9plTxI3fY_nTPyk75H4O"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "IoT",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1wkuzD1pZzKUG8aiU9W5l1TDK52Okg6E8"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Open Gov -Zakka",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1r2zoDop9VPkEF7DbJ7odMlcFWjHt5QxS"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Qualité SI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1jCTWVf5bfGxryNs-ErNKm1eaHu70gYZ9"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Risk Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KaxASddX0hPUseTrf7CU3DZOJYVOU_a2"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Text Mining",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Dja1NHAJuc3yqM2SXIs3lJvAaf2jBLDO"
+   }
+  },
+  {
+   "branch": "IIN",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "Veille Stratégique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/171_RudRlhhSP7wKcPUbZn86xRPKKr4RL"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "1.1",
+   "title": "1.1 - Architecture des ordinateurs",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1U81rqxCqyz1P0P1BjlskiuX43h48RMWh"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "1.2",
+   "title": "1.2 - Système d’exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1QpCOAPHkkWg5DrJbpm-gICZN4S_nvGkU"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "2.1",
+   "title": "2.1 - Algèbre matricielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1JaMhQR_1bkwldoWB6PxIVhc0L29NSj1l"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "2.2",
+   "title": "2.2 - Analyse",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1aEcMt2sZ9CRyMU5S1nRVBMHC90vR7MgP"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "3.1",
+   "title": "3.1 - Algorithmique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1miNgHbeXhlpLO9wTnknIFXT7gbP5jPPf"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "3.2",
+   "title": "3.2 - Programmation Python",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1aRUHanpkTwroFIXdtu0p1EfhmbtDXWcR"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "4.1",
+   "title": "4.1 - Gestion électronique des documents",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1UdD5fu7Buf3wFk_Nyxwe0fXNQGHNUn-D"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "4.2",
+   "title": "4.2 - Documents structuré",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/13pE4I0kH20ug8B881z7MwrDfybhyQWn-"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "5.1",
+   "title": "5.1 - Initiation aux réseaux informatiques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1U2No9PrkhyDjuEJwaUAPGZN3TZmij8jc"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "5.2",
+   "title": "5.2 - Réseaux sans fils et mobiles",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1QwHvdimZcbD0ZUKv1LO1qvXRcwEtPlYq"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "6.1",
+   "title": "6.1 - Théorie des graphes",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1sc58UMZtneQMvP9FrrvA-t91HA_BnYxS"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "6.2",
+   "title": "6.2 - Optimisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1X__wmDw9u1Ao7vWTcBYqifDww4m6-n6w"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "7.1",
+   "title": "7.1 - Économie générale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KTWRsFs_yoSodI5-YoWPd5exLS17jWCR"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "7.2",
+   "title": "7.2 - Micro et Macro-économie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1dY7FKzx2AICFuEr9u_bYPN7RIpQz0XXZ"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "8.1",
+   "title": "8.1 - Techniques d’expression et de communication (TEC)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1oHEHNXIyPzE_1ycRJQtEJOi_yyE_yH0j"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S1",
+   "year": "2022",
+   "code": "8.2",
+   "title": "8.2 - English for General Purposes 1",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1z9qt9dcnZDPTlogM2uukRGcSBS3p4_EJ"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "1.1",
+   "title": "1.1 - Analyse et Conception des SI Relationnels",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1kaSjPtThBl01LcNGNLIxjFBpHP5PSd1L"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "1.2",
+   "title": "1.2 - SGBDR – SQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bNM0Ea9pDNd84V6Tv8yzTS5RVs3OvfgG"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "2.1",
+   "title": "2.1 - Probabilité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1cgYjFeFopbnsNipBgOu1oZadE_MZ0H4e"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "2.2",
+   "title": "2.2 - Statistique descriptive",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hyyLQRqY94LZiM3pZmwBH4Zssk9-LlCu"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "3.1",
+   "title": "3.1 - Technologies Web",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1L_DiLB_EdEifwHPG-OeTXB5IMwzq1Jqb"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "3.2",
+   "title": "3.2 - Programmation web en PHP",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/17JdhahmVy0kOK5sf3MkgCQ0FVORltml-"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "4.1",
+   "title": "4.1 - Algorithmique avancée",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GthXzPmzR_ONonkIXjl-x1zM8_3dZ7q7"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "4.2",
+   "title": "4.2 - Programmation avancée",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mGlCF0R2RlXmAa_feY9rygOuWOWl9oIF"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "5.1",
+   "title": "5.1 - ECM",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1_novRgRXEiDCq0Ln8OLZdAC6VoGViBGC"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "5.2",
+   "title": "5.2 - E-services",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Tb8ibfF9eQWlwrk63bGvEOp2_LjB50AH"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "6.1",
+   "title": "6.1 - Knowledge Management (KM)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1OLurLPg0ETHGNHZQXc0IWOWIPCexBMQE"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "6.2",
+   "title": "6.2 - Veille technologique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ptq36QPDaSmpA_N4cepfo7YtAvzl5TOS"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "7.1",
+   "title": "7.1 - Management et Marketing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1UVThlahQWAdoH1kK-GJAgHIkn5I-6_jA"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "7.2",
+   "title": "7.2 - Comptabilité générale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1LWC1DA6dxnmB-Y6BUEalJeu-_2VOxz6R"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "8.1",
+   "title": "8.1 - Techniques d’expression et de communication 2",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1BL5XPgb1GNRxZzIdvxaOccnJilWVgqNq"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S2",
+   "year": "2022",
+   "code": "8.2",
+   "title": "8.2 - English for General Purposes 2",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/14iIt-jnobMjpTJG_d_0i0dmVjvngOYai"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "1.1",
+   "title": "1.1 - Management de projet SI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1W9a4ZNJqETWjKSSk1Y-lEXhCtlXT8A09"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "1.2",
+   "title": "1.2 - UML",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1n3JL1hkDgk1D3Rlv9-Bv7qh3OSji9myA"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "2.1",
+   "title": "2.1 - Java+ 2.2 - Projet OO",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1va387GDA10EeFIPw6M2CCBa3TrJknL4O"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "3.1",
+   "title": "3.1 - Statistiques Inférentielles",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12b-02zPVx1-JI2dXgDN46RYJ2k2N8Dej"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "3.2",
+   "title": "3.2 - Processus Stochastique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1AVw644j2XQxAoTpbqPX-jYPidW2_aS0j"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "4.1",
+   "title": "4.1 - Administration des systèmes d'exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1RaVHVuMwAzkybxz-CclA5z2HyUO1fBTJ"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "4.2",
+   "title": "4.2 - Introduction à la cybersécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1t9WCjd0oB8AaFYZdUiSNNyQPwTYEjuil"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "5.1",
+   "title": "5.1 - Théorie de l’information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1jhM_bKad4UZkMoVTcl6l75AoY_2bxgzV"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "5.2",
+   "title": "5.2 - Traitement du signal",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mYaTxqwtvuzcmvF98V4tCkaC6nHuh0pu"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "6.1",
+   "title": "6.1 - Administration réseaux et virtualisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nEowP3U9Zrv-E6TBpcpaW58ErEVPNk8z"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "6.2",
+   "title": "6.2 - Couches hautes et gestion de réseau",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1G9E4cJ5P7j-aCw4Gt4gSO4oNrvQpz7lo"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "7.1",
+   "title": "7.1 - Project Management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/16SPqEDFvTcpnwMAdkOKk6Vc_zwdBVptF"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "7.2",
+   "title": "7.2 - Culture entrepreneuriale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/11pG6JT5olx_vVIE4BZPsLPHk1vCjnqyJ"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "8.1",
+   "title": "8.1 - Communication Professionnelle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12nvZUzVOSBHxOc0HN_FxAS4loG-OVrvn"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S3",
+   "year": "2022",
+   "code": "8.2",
+   "title": "8.2 - Business English",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ZanPmXaOhM8Z4FCbr2p0OdcL1Sqmby5i"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "1.1",
+   "title": "1.1 - Java EE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1MzOV5va-M11yrH0f3Bx9SnjuW4gP1mVQ"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "1.2",
+   "title": "1.2 - Développement mobile",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10NFwd_3AJw-FtLMgY7LCU4yxdiEXdGth"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "2.1",
+   "title": "2.1 - Protocoles et services de sécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1V5A6L3GZZTSTD2INDBKp5J6fAcHmDona"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "2.2",
+   "title": "2.2 - Sécurité des applications web et modèles de sécurité (S-SDLC)",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KUTGHY_Tjy4pAnXOebQxKnAYPoDv0H_L"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "3.1",
+   "title": "3.1 - Arithmétique et théorie de nombre pour la cryptographie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/146x9DI2EWORN3IOPjbU9n3GWgovVX5bA"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "3.2",
+   "title": "3.2 - Modèle de Régression",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mI_Z-kNXSFlfy-7PhYZOo3ajkxJUf9Ou"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "4.1",
+   "title": "4.1 - Bayesian Machine learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/19sj7W9YJ3k22mHmatudg-W3YyDU3C82A"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "4.2",
+   "title": "4.2 - Advanced Machine learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/18QBIHJGRuqYdeBYPoqHl9VoElxiQnBrd"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "5.1",
+   "title": "5.1 - Systèmes et algorithmes répartis",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1o5ard0XUvS22xc5GoRe-ZagzQ5xxWvHu"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "5.2",
+   "title": "5.2 - Virtualisation et Conteneurisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1RdF9hWR2w3jX0aCFtFCSSDQr_Er7DOoB"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "6.1",
+   "title": "6.1 - Blockchain",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1EWv-94w3vd-ZC_sdNawXsdSg2dRc8DGW"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "6.2",
+   "title": "6.2 - Cryptographie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1eWLpqiZMYq8HM1reKTyxjNTR6aXDFtrQ"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "7.1",
+   "title": "7.1 - Gestion des indentités",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nbO6Di7EeBrI-TAlWOym49DRn_T2vMI9"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "7.2",
+   "title": "7.2 - Infrastructures de gestion des clés",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1vgR6AefEb5TzOJxL97EmgbpRfc-6UNYW"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "8.1",
+   "title": "8.1 - Cadre normatif de la sécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NnmOAKgI-VW2Bf9J_OcND1KScwwur4G1"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S4",
+   "year": "2022",
+   "code": "8.2",
+   "title": "8.2 - Cadre réglementaire de protection et d'accès à l'information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12_Ly1WzFizAaWCaBsFFaMRlIoKo4qQlB"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.1",
+   "title": "M.5.1 Ethical Hacking",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1UAN8dSr6CKyoF-haOngi0UgCgnk68cHa"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.2",
+   "title": "M.5.2 Systèmes Embarqués et Intelligents",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mC3BoC2l3nZmmo5tq9jApmE8HkUuBf9Q"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.3",
+   "title": "M.5.3 Sécurité réseaux et mobile",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1W30GNojyxm2ekR0PpXlEX5Q0i2M9ctcI"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.4",
+   "title": "M.5.4 Systèmes Ubiquitaires",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1B6hP9ODLJPB-zAmUwQK4RrTHleiAUyIG"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.5",
+   "title": "M.5.5 Biometric Systems and Security",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ZjP25HBHlz_Ak4jaP0uRW01hvBTZEwyL"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.6",
+   "title": "M.5.6 Sécurité des systèmes distribués",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ASeHopIN1ZeUXqOQdPFd2G1YdY6mLjl3"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.7",
+   "title": "M.5.7 Gouvernance & Audit de la sécurité des Systèmes d'Informations",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nix73GGijaaPmOI7zl8j_Gu-6jgakXLG"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "M.5.8",
+   "title": "M.5.8 Méthodologie de Recherche",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1kameCpTe-PAiFETwjf5P21inlWyD98-J"
+   }
+  },
+  {
+   "branch": "ISSIC",
+   "semester": "S5",
+   "year": "2022",
+   "code": "",
+   "title": "resume made by classmates",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1g52G5X7zt8hVvAWDCg5Y1062--t1YSsJ"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Algebre",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/16RR56hbMim0ZcautGEbRfdJn2RTp5506"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Algorithmique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/15gL1Y72_In8loqXl6vX7qfHitA82GzBh"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CZNa_bu0-aj8ZL_2NYTogO6bEQIu__BT"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Architecture de l'oridinateur",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bhZkQcHUIQFT0T2TdlRLxorvXrUweexq"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Documents structuré",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1BQz7xfzM5BQkfxKTEfXx7K_W_zxG-Q_H"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Economie general",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10HinsLmEyVdEwZXiVUzCW4jczeCVetad"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "GED",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1luBqXwNy5RkQvgTFezlwiuLUUNFuxhc9"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "INITIATION AUX RÉSEAUX INFORMATIQUES",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CX9c2IHACKCJTTyAF0fBDnMueGzeW_-e"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Language C",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Lv5zWCL_CP0m4DV6FIR_qnsWRF1Wpu5z"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Micro-Macro",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1yA_K9XmicHN0TqQQEMIEzdNRNKfPYprM"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Optimisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nNoS2Wrs8ZrZhr_tU7oG5LZR62zUf2j2"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "System d'exploiatation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1QRGiRKdXYIzSpwRIfktJx4715eUImUct"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "TEC",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12Wqd-YL-Ppcob7g0RSY3wfJDro0bsyaF"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Theorie des graphes",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1gPrxeQXeRoLdM34NgwuA1sqzOEcQXctE"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Algorithmique avancé",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Y0z8uvKft1JrChPnjvBaJp7lWeSv8FBy"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse et Conception des SI Relationnels",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1just8Jsg4gW6ShyrLNu-atQb3a4ZGcG-"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Comptabilité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/18IpWb_i6FW7UZPvAcCg5GTuskNdsuUUa"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "E-Services",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NB6mAn70u8jsOs2pn7Ecs9SE9iiLw69T"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "ECM",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1ndiYxL6bAzWOmFd8EQMN69OpAducDAjJ"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Knowledge managment",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nwI2VyQoKg3t9Ldfxz1nI_UII6yr2Ag4"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Managment te Mareketing",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hPm2ADAxBgKkDGHeTTJOoqOiA5MROES4"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "PHP",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GaZHMPdXhwog0RsP6Zy4r7mx9SKXjk_M"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Proba",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1SQ3t-MXJgDwL4fmVzl5q16-Y2wzekZv1"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Programmation systeme",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10mvpAyuSyIte15uibxc_g9R98o-s14au"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "SQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/15_z_pvvDeIOobjSHQ3buEW6BBeSXy0xT"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Statistiques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NKiw9zBj4PD0HjCTpfeKsCqZm76vf5qb"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "TEC",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1qdP9WArCCVwLDJ8AWyv5vTSCBzm9coks"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Tech Web",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1A9Iz3hKULQYXFfbKHnh8fHtoPD22NF1w"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Veille technologique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1pGiCxHychKCA7i7tlPkm0mL36Pr5QzQV"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Administration des BD",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/14XiVsyq0-3EU5TgZSTbvkpHSe7zrBVqL",
+    "examen": "https://drive.google.com/drive/folders/14XiVsyq0-3EU5TgZSTbvkpHSe7zrBVqL",
+    "resume": "https://drive.google.com/drive/folders/14XiVsyq0-3EU5TgZSTbvkpHSe7zrBVqL"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Administration des Systèmes d'exploitation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1UDRpi_IcIvfMr9LFZLYnXUti2_gjVmEC",
+    "examen": "https://drive.google.com/drive/folders/1UDRpi_IcIvfMr9LFZLYnXUti2_gjVmEC",
+    "resume": "https://drive.google.com/drive/folders/1UDRpi_IcIvfMr9LFZLYnXUti2_gjVmEC"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Administration réseaux et virtualisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1eIUJ3eQlEtduHQEwv08_vFoE5aGUomYL",
+    "examen": "https://drive.google.com/drive/folders/1eIUJ3eQlEtduHQEwv08_vFoE5aGUomYL",
+    "resume": "https://drive.google.com/drive/folders/1eIUJ3eQlEtduHQEwv08_vFoE5aGUomYL"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse de données",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1G_cOOXz65zDcuWAXw_OcB1fuHUO97RUx",
+    "examen": "https://drive.google.com/drive/folders/1G_cOOXz65zDcuWAXw_OcB1fuHUO97RUx",
+    "resume": "https://drive.google.com/drive/folders/1G_cOOXz65zDcuWAXw_OcB1fuHUO97RUx"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Communication Professionnelle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1xBbT0l6wEshqi51qR-zlGfM69j6FmC7u",
+    "examen": "https://drive.google.com/drive/folders/1xBbT0l6wEshqi51qR-zlGfM69j6FmC7u",
+    "resume": "https://drive.google.com/drive/folders/1xBbT0l6wEshqi51qR-zlGfM69j6FmC7u"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Fondements de l’intelligence artificielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1U7NI9fGDj7zeirovn0ImVv-ibHum-JKz",
+    "examen": "https://drive.google.com/drive/folders/1U7NI9fGDj7zeirovn0ImVv-ibHum-JKz",
+    "resume": "https://drive.google.com/drive/folders/1U7NI9fGDj7zeirovn0ImVv-ibHum-JKz"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Inférence statistique",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1so-KFOdlmysR9ZVxlY93QDrpbn8gcGTw",
+    "examen": "https://drive.google.com/drive/folders/1so-KFOdlmysR9ZVxlY93QDrpbn8gcGTw",
+    "resume": "https://drive.google.com/drive/folders/1so-KFOdlmysR9ZVxlY93QDrpbn8gcGTw"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Langages pour les sciences de données",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1NHNunQg4a22lyQVmU1VWnsSSHfuOUoq6",
+    "examen": "https://drive.google.com/drive/folders/1NHNunQg4a22lyQVmU1VWnsSSHfuOUoq6",
+    "resume": "https://drive.google.com/drive/folders/1NHNunQg4a22lyQVmU1VWnsSSHfuOUoq6"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "PL⁄SQL",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1olANwmsMeZGkrDv9joODD6Pdi-wKQMNf",
+    "examen": "https://drive.google.com/drive/folders/1olANwmsMeZGkrDv9joODD6Pdi-wKQMNf",
+    "resume": "https://drive.google.com/drive/folders/1olANwmsMeZGkrDv9joODD6Pdi-wKQMNf"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Programmation Orientée objet",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1UciJky6-EXW_CUJxcbvsGGsL_HNeTN4D",
+    "examen": "https://drive.google.com/drive/folders/1UciJky6-EXW_CUJxcbvsGGsL_HNeTN4D",
+    "resume": "https://drive.google.com/drive/folders/1UciJky6-EXW_CUJxcbvsGGsL_HNeTN4D"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Systèmes intelligents",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1imuD2XgfdIzCBRT0o3hesAcCnAZn9lby",
+    "examen": "https://drive.google.com/drive/folders/1imuD2XgfdIzCBRT0o3hesAcCnAZn9lby",
+    "resume": "https://drive.google.com/drive/folders/1imuD2XgfdIzCBRT0o3hesAcCnAZn9lby"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "UML",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1mDrIIwhhne8NEiLVLnXJTAbFiFUzqmlJ",
+    "examen": "https://drive.google.com/drive/folders/1mDrIIwhhne8NEiLVLnXJTAbFiFUzqmlJ",
+    "resume": "https://drive.google.com/drive/folders/1mDrIIwhhne8NEiLVLnXJTAbFiFUzqmlJ"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Applications n-tiers en Java",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1aom20OO8MFMLV8OhuUR6qgYq4nxfdQD7",
+    "examen": "https://drive.google.com/drive/folders/1aom20OO8MFMLV8OhuUR6qgYq4nxfdQD7",
+    "resume": "https://drive.google.com/drive/folders/1aom20OO8MFMLV8OhuUR6qgYq4nxfdQD7"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Cadre normatif de la sécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1SCQPihmz269q8OXlbx5G7uh4w-M4c7ho",
+    "examen": "https://drive.google.com/drive/folders/1SCQPihmz269q8OXlbx5G7uh4w-M4c7ho",
+    "resume": "https://drive.google.com/drive/folders/1SCQPihmz269q8OXlbx5G7uh4w-M4c7ho"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Cybersécurité",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1Y_Pkf39kl00HCw5K0MFLzY19Va4iXVqr",
+    "examen": "https://drive.google.com/drive/folders/1Y_Pkf39kl00HCw5K0MFLzY19Va4iXVqr",
+    "resume": "https://drive.google.com/drive/folders/1Y_Pkf39kl00HCw5K0MFLzY19Va4iXVqr"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Data visualisation",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1OyJ3Lol1omPx72peosiNTiSnoq2y8tni",
+    "examen": "https://drive.google.com/drive/folders/1OyJ3Lol1omPx72peosiNTiSnoq2y8tni",
+    "resume": "https://drive.google.com/drive/folders/1OyJ3Lol1omPx72peosiNTiSnoq2y8tni"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Design UI⁄UX",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/10kN2clo8BQpLXPsZbeuxsdFtAZxv3Jd8",
+    "examen": "https://drive.google.com/drive/folders/10kN2clo8BQpLXPsZbeuxsdFtAZxv3Jd8",
+    "resume": "https://drive.google.com/drive/folders/10kN2clo8BQpLXPsZbeuxsdFtAZxv3Jd8"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Développement mobile",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1iZAbYVVk_elNqEwsifmQhOTx2sA4-aTz",
+    "examen": "https://drive.google.com/drive/folders/1iZAbYVVk_elNqEwsifmQhOTx2sA4-aTz",
+    "resume": "https://drive.google.com/drive/folders/1iZAbYVVk_elNqEwsifmQhOTx2sA4-aTz"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Elaboration de stratégie de transformation digitale",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1L6orB5ap1AAEmFqwueJgohe0UdSRFCsL",
+    "examen": "https://drive.google.com/drive/folders/1L6orB5ap1AAEmFqwueJgohe0UdSRFCsL",
+    "resume": "https://drive.google.com/drive/folders/1L6orB5ap1AAEmFqwueJgohe0UdSRFCsL"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Frameworks de développement",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1PIA_OVRi3bblH54a4Gur-rVgjILDC4iE",
+    "examen": "https://drive.google.com/drive/folders/1PIA_OVRi3bblH54a4Gur-rVgjILDC4iE",
+    "resume": "https://drive.google.com/drive/folders/1PIA_OVRi3bblH54a4Gur-rVgjILDC4iE"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Ingénierie dirigée par les modèles",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1iH4YD8zBMxArK6t0BK4vPVlZI2Snh1Bw",
+    "examen": "https://drive.google.com/drive/folders/1iH4YD8zBMxArK6t0BK4vPVlZI2Snh1Bw",
+    "resume": "https://drive.google.com/drive/folders/1iH4YD8zBMxArK6t0BK4vPVlZI2Snh1Bw"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Ingénierie Logicielle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KBP1TotpefArrlskYvh4cllCYoJs313B",
+    "examen": "https://drive.google.com/drive/folders/1KBP1TotpefArrlskYvh4cllCYoJs313B",
+    "resume": "https://drive.google.com/drive/folders/1KBP1TotpefArrlskYvh4cllCYoJs313B"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Initiation à la recherche",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1jEfxxvnqZxi7VP_JDlSvEDDLi8ngNG8J",
+    "examen": "https://drive.google.com/drive/folders/1jEfxxvnqZxi7VP_JDlSvEDDLi8ngNG8J",
+    "resume": "https://drive.google.com/drive/folders/1jEfxxvnqZxi7VP_JDlSvEDDLi8ngNG8J"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Java et API avancés",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1b1WmDC3_gvFpxAt75tV_h54drUVVaZSm",
+    "examen": "https://drive.google.com/drive/folders/1b1WmDC3_gvFpxAt75tV_h54drUVVaZSm",
+    "resume": "https://drive.google.com/drive/folders/1b1WmDC3_gvFpxAt75tV_h54drUVVaZSm"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Machine learning",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1LEfiCCkmL7Sb7CGpFV-Enr9a0dwZCBca",
+    "examen": "https://drive.google.com/drive/folders/1LEfiCCkmL7Sb7CGpFV-Enr9a0dwZCBca",
+    "resume": "https://drive.google.com/drive/folders/1LEfiCCkmL7Sb7CGpFV-Enr9a0dwZCBca"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Management de projet Systèmes d'Information",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1WJneQdTddirT9YTxNcCiuXcaplZKWQWF",
+    "examen": "https://drive.google.com/drive/folders/1WJneQdTddirT9YTxNcCiuXcaplZKWQWF",
+    "resume": "https://drive.google.com/drive/folders/1WJneQdTddirT9YTxNcCiuXcaplZKWQWF"
+   }
+  },
+  {
+   "branch": "ISITD",
+   "semester": "S4",
+   "year": "2022",
+   "code": "",
+   "title": "Services WEB et Micro-services",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1uV2zmVcBzqMAVcBkTQK4ul1NfhIdpCw-",
+    "examen": "https://drive.google.com/drive/folders/1uV2zmVcBzqMAVcBkTQK4ul1NfhIdpCw-",
+    "resume": "https://drive.google.com/drive/folders/1uV2zmVcBzqMAVcBkTQK4ul1NfhIdpCw-"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Analyse stratégique Mme El yamani",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1CEiLgGRUBl5i2vOfe4a7O7lssrm5vq1n"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Business Analyse Mme El Idrissi",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/12g1kgw4t3HURd-EMM6zNoP9GWSSudmpi"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Eco gen",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1YYTAE-HQOSiG8ixYE_L9PS8E2Jg3Uf2s"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "English",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1aTch-Z95nBqJmV6kyBK9aCIUWk0jspuz"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Intelligence économique. MAlika HANANE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1hIfrWYS0Ki5xEtKupDzu3KNoDJm040NA"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Projet Intelligence écnomique Med SENOUSSI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1KvFSGIp6deDQamjjFz6JOqdB15xNEwao"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "statistique Pr FAZOUAN",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1-J_PCo6-VkHep_NXCA_18RbT4KCqVo9B"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "Veille informationnelle Mme BENSLIMANE",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1zAbWTmA75PMamOqVDRtcFCETkRCwmiUM"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "économie de connaissance JAOUAD MALZI",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/17DjxxQPqNJRJz8L68brAEM8lfskNZllv"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S1",
+   "year": "2022",
+   "code": "",
+   "title": "économie générale. Nisrine GHEFOU",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1GBCwJ53_FFkTeTAZ242y5BGMeBbuWJtj"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Audit de veille-informationnel",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1tlGvZVrYgN4i6U09onw-E7XGnuR4i36R"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Module communication",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1RZZFPXJJUvjXD2LY3vfHUlWQq3Zv9exc"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Module Droit, éthique et déontologie",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1rgtljfcBIJX-L0McMLaUPk0huuZ0rAVs"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Module knowledge management",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1fCVG93rK8pOY0xn2pzXCbP3EZFt4ysAZ"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Module Micro-macro",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/171jPAir_nmyMt56B2ynvTaOc66-Y8DJi"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S2",
+   "year": "2022",
+   "code": "",
+   "title": "Module Mondialisation risques",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1nLSmtK0MK_WLb8RakNzMlJdMsQTCr5mh"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Module Géo-économie et prospective",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1wFBF3j1m1ZpXTlknxdzmlpE5Bpm2JYpP",
+    "examen": "https://drive.google.com/drive/folders/13dGexCKdhf-tDJ338Os_wMsihncTNPCf"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Module Influence et contre-influence",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1DVpV-4AtOaN6wJ_S1fWQG4qVfriwv5JZ",
+    "examen": "https://drive.google.com/drive/folders/13dGexCKdhf-tDJ338Os_wMsihncTNPCf"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Module Intelligence territoriale, juridique et culturelle",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1bUjHGNJlulzfUKMU7RBLoAifeCPTV7Vr",
+    "examen": "https://drive.google.com/drive/folders/13dGexCKdhf-tDJ338Os_wMsihncTNPCf"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Module méthodologie de recherche",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1pF5-tsupkX4wPS3T0xqWwBx4tCNdDKiw",
+    "examen": "https://drive.google.com/drive/folders/13dGexCKdhf-tDJ338Os_wMsihncTNPCf"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Module protection et défense du patrimoine informationnel et des connaissances",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1aMzb5zfDqiFfkUk8r6KToSTsyerTVRAg",
+    "examen": "https://drive.google.com/drive/folders/13dGexCKdhf-tDJ338Os_wMsihncTNPCf"
+   }
+  },
+  {
+   "branch": "MSICS",
+   "semester": "S3",
+   "year": "2022",
+   "code": "",
+   "title": "Module stratégie et opérations d’influence",
+   "links": {
+    "cours": "https://drive.google.com/drive/folders/1kDbwiyePNd3ZXVQ9avqGoiW_OIUyoCKE",
+    "examen": "https://drive.google.com/drive/folders/13dGexCKdhf-tDJ338Os_wMsihncTNPCf"
+   }
+  }
+ ],
+ "reports": [
+  {
+   "title": "Analyse de sentiments des commentaires en Arabe classique et Dialecte Marocain : recommandation de livre et publications sur la covid-19.",
+   "engineer": "Mohamed Guassim",
+   "organisation": "HENCEFORTH",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "sentiment analysis",
+    "natural language processing",
+    "modern standard arabic"
+   ],
+   "abstract": "The majority of brands and companies in different sectors are aware of the importance of the opinions expressed about their products and services. Monitoring their E-reputations, by analyzing a large number of publications and comments from social networks, is therefore the best solution to improve their image, propose new offers and promotions, conduct marketing campaigns and make the best decision at the best time to maximize their profit and minimize their expenses.\nIt is in this context that the present report is written, and which addresses the Machine Learning approach to analysing the sentiments in comments written in Modern Standard Arabic or Moroccan Dialect. This work begins with the selection of a sdataset concerning the evaluation of books for Modern Standard Arabic as well as the manual annotation of a dataset of 18,959 comments on the subject of Covid-19 collected from Facebook publications in three categories (positive, negative or objective). We then pre-process and explore the textual comments for a better understanding of the dataset and its characteristics. Then, we present the steps performed to train and adapt the Machine Learning and Deep Learning models to classify these comments into 2 and 3 classes and then 5 classes for deeper analysis. As far as sentiment analysis is concerned, several researches have been carried out in order to be able to build adequate models. N-grams, Stemming and Light Stemming or the Stopwords removal are all combinations that have been tested. Experimental results have shown that Convolutional Neural Networks (CNN), Support Vector Machine (SVM) and Naive Bayes (NB) are efficient models that have given better results in sentiment analysis. We achieved 93% accuracy using the SVM model for a classification in 3 classes and 81% accuracy using the CNN model for a classification in 5 classes. While for a classification in 2 classes we achieved an accuracy of 93.7% using the NB model. These results are very satisfactory when compared with recent research that has used the same models for the same purpose.",
+   "reportUrl": "https://drive.google.com/file/d/1z7WzE1r6qfKSC0piEhy22bqB0J9pS7yt/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/analyse-de-sentiments-des-commentaires-en-arabe-cl-f3376a2e1408492887fa0b97b11e5e74/"
+  },
+  {
+   "title": "Automatisation de la gestion des courriers par la mise en place d’un système personnalisé à la Direction Régionale de l’Habitat et la Politique de la Ville Région FES-MEKNES",
+   "engineer": "Badria QORCHI",
+   "organisation": "Direction Régionale de l’Habitat et de la Politique de la Ville de la Région Fès- Meknès",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "mail management system",
+    "process automation and dematerialization."
+   ],
+   "abstract": "This report entitled “Automation of mail management by setting up a personalized system at the Regional Directorate of Housing and City Policy Region FES-MEKNES” is a presentation of our end of studies project, carried out within the regional department of housing and city policy. The region of Fes-Meknes, with a view to obtaining the diploma of Data and Knowledge Engineer from the Faculty of Information Sciences. The flow of incoming and outgoing letters from the DRHPV-RFM continues to increase on a daily basis. Its management is becoming more and more complex. Of course, there are several solutions for the IT market, unfortunately they are not completely adapted to the needs of the DRHPV-RFM. Our objective is therefore to design a solution that meets the expectations of managers in order to support them in better dematerializing mail management.\nTo realize our application and achieve our goal, we first started by studying the existing solutions in the literature related to the subject in order to fully understand the problem. Then, we developed the design and modeling of our application to move on to the realization of our solution.",
+   "reportUrl": "https://drive.google.com/file/d/1GjEjFe_xE_RfBcDPfhNsX23w9cdx5utJ/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/automatisation-de-la-gestion-des-courriers-par-la--ec22cfd0951f47cfaee68081ed06a85a/"
+  },
+  {
+   "title": "Conception & mise en place d’une plateforme multi modèles pour la détection des anomalies",
+   "engineer": "Nabila OUNASSER",
+   "organisation": "OCP",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "anomalies",
+    "deep learning",
+    "generative antagonistic networks",
+    "active learning"
+   ],
+   "abstract": "The detection of anomalies, which has become one of the main objectives of companies, relies\non artificial intelligence, the latter offering proactive approaches makes it possible to identify\nabnormal behaviors within the pool of collected data. These datasets contain a majority\n(normal) class and the rest of the data, which does not have the same characteristics as that\nof normal data, is reported as anomaly. Existing proactive approaches are generally based on\ntagged data, and their performance depends mainly on the tagging effort.\nAnomalies can generally result in problems depending on the sector studied, such as structural\ndefects, errors, intrusions or fraud.\nIn this context, this report is aimed at designing and implementing a proactive solution for the\nunsupervised detection of anomalies for the benefit of the OCP Group, through the analysis\nand processing of numerous, diversified and not labeled.\nAfter having carried out a study and a needs analysis for a precise definition of the objectives,\nthis makes it possible to meet expectations with regard to the project. Then, we based\nourselves on the documentation which allowed us to explore the different methods of solving\nthe problem, namely Machine Learning algorithms, GAN model methods and methods based\non autoencoders.\nThen, after having developed the Machine Learning models (OC-SVM, LOF, Isolation Forest\nand KMeans), the GAAL methods and the DAGMM model, we carried out a comparative study\nbetween them to finally extract the most efficient models, which will remain applicable to the\nactual data of OCP Group entities and we will be able to detect future malicious threats that\nattack the information assets.\nFinally, we designed and implemented a configurable platform where we integrated the most\nefficient models, which are the GAAL (MOGAAL and SOGAAL) and DAGMM methods with an\naccuracy of 0.9 on certain datasets. With this platform, we are able to visualize our data,\nperform descriptive analyzes and apply proactive approaches to unsupervised anomaly\ndetection.\nKeywords: Anomalies, Deep learning, Generative antagonistic networks, active learning,\nAutoencoders.",
+   "reportUrl": "https://drive.google.com/file/d/1w51tUwgz0DHJQaZCMR00sSSw48tMbYyj/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception--mise-en-place-dune-plateforme-multi--82a63abef13c4817a5acd3c20f87be89/"
+  },
+  {
+   "title": "Conception d'une plateforme d'optimisation des ventes pharmaceutiques",
+   "engineer": "Khaoula ALAOUI BELGHITI",
+   "organisation": "HDS Systems",
+   "promotion": "",
+   "language": "French",
+   "tags": [
+    "machine learning",
+    "deep learning",
+    "object recognition",
+    "yolo",
+    "python"
+   ],
+   "abstract": "The Moroccan pharmaceutical industry is a growth pole because of the technologies it has\nacquired, there techniques ares recognized by international bodies, and the performance it\nachieves both in terms of the quantities produced and the quality of medicines. This growth\nwas more and more remarkable with the emergence of the Covid19 pandemic and the needs\nassociated with drug purchases.\nOur entire project is part of a global project integrating several Moroccan client pharmacies to\nintegrate a sales optimization platform, our component aims to create an easy-to-use web\napplication that runs in an environment of deployment to run the drug detection model.\nDue to the complexity of the project and due to time constraints, we were unable to integrate\nthe detection results into the overall sales management platform. We focus on real-time\ndetection of products presented on a webcam at local pharmacies and keeping detected sales\nhistories for the ultimate possibility of generating sales reports aid customer decision making.\nTo do this, after an image processing used for training the model, we use a python framework\nto deploy and integrate the model into a web application.\nTo offer the optimal solution with which we will work to achieve the realization of the\nproject, we first went through a needs study to properly determine the expectations and needs\nof the customers vis-à-vis the final application. After that we were able to develop a general\ndesign of the detection solution as well as for each stage of the model first and the web\napplication thereafter, through which the project will be carried out.",
+   "reportUrl": "https://drive.google.com/file/d/1Udc-UTDqVyMcHTIIRxC9FFmQtA-gwqfa/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception-dune-plateforme-doptimisation-des-ven-0e43c30769df422cb6ecc6bab36d3db2/"
+  },
+  {
+   "title": "Conception et la réalisation d’un système d’aide à la décision et prédiction des affaires judiciaires",
+   "engineer": "BARAKA Kaoutar",
+   "organisation": "Le ministère de la Justice Le Conseil supérieur de la magistrature Cour de cassation",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/17NGvQKXdRoNkPYAXRYM5I36jBJTi1sbj/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception-et-la-r%C3%A9alisation-dun-syst%C3%A8me-daide-%C3%A0-a7391e0794a447ba8c24cf1e425f2d76/"
+  },
+  {
+   "title": "Conception et mise en place d'une solution Deep Learning pour la détection des véhicules dans les",
+   "engineer": "ELBOUAAICHI Nour-elhouda",
+   "organisation": "Autoroutes du Maroc",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "convolutional neural network (cnn)",
+    "real-time object detection"
+   ],
+   "abstract": "Data fusion has been widely studied in the field of artificial intelligence. Information\nis generally considered imperfect. Therefore, the combination of several heterogeneous\ninformation sources can lead to a more global, more complete and more accurate information\n[1].\nIn this regard, the Société Nationale des Autoroutes du Maroc (ADM) is aware of the\nimportance and purposes of this merger to help improve the performance of systems for\npredicting and monitoring the flow of highway traffic, and has decided to exploit all of its\ndata sources from various data providers. These providers include surveillance cameras and\ntransactional data.\nIn this context, this memoir is included, which aims to focus firstly on the use of video data\nfor the detection and counting of vehicles in real time and secondly to merge these data with\nthe transactional data to help improve the prediction of highway traffic flow.\nTo achieve this goal, convolutional neural networks are being studied with the aim of\ndeveloping a detection model, capable of recognizing vehicles in video streams with high\nprecision and fast computing time. YOLOV4 is the vehicle detection model that has been\nstudied and optimized throughout this work. The DeepSORT tracking algorithm has been\nstudied and associated with the YOLOV4 detection model in a final model that will be\nresponsible for the detection and counting of vehicles in particular areas, through different\nvideos in real time.\nIn the second part of the project, we are interested in, the fusion of transactional data and\nvideo data as a support to improve the prediction of the flow of motorway traffic.\nFor this, we have studied the theory of evidence for modeling, combination and decision. This\ntheory makes it possible to represent both the uncertainty and the imprecision of the\ninformation obtained from each source, by assigning weights for each data source which\napply not only to a single condition but to a set of conditions.\nKeywords: Deep Learning, convolutional neural network (CNN), real-time object detection,\nreal-time object tracking, multiple object tracking, data fusion.",
+   "reportUrl": "https://drive.google.com/file/d/1PFfd1TvwjkZwVAujr3IgKFf7je_verTm/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception-et-mise-en-place-dune-solution-deep-le-88dc8918870043299ac929297a3e8c08/"
+  },
+  {
+   "title": "Conception et mise en place d’une solution Deep Learning pour l’analyse des opinions exprimées sur l’image d’Amendis à travers la presse électronique.",
+   "engineer": "Rihab ESNOUSSI",
+   "organisation": "Amendis, Veolia",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "opinion analysis",
+    "hierarchical attention network",
+    "blstm"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/135weZl0oLGaceZqb8S0Iro0ISx8sX7Mc/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception-et-mise-en-place-dune-solution-deep-le-d583317c548b4356a8ee6abbf86b6651/"
+  },
+  {
+   "title": "Conception et mise en place d’une solution Deep Learning pour l’analyse des opinions exprimées sur l’image de SQLI à travers les réseaux sociaux",
+   "engineer": "BENCHEIKH Hanane",
+   "organisation": "SQLI Digital Experience",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "opinion analysis",
+    "bert",
+    "cnn",
+    "lstm",
+    "bilstm",
+    "attention",
+    "social networks."
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1nZRIqsciW4Ywelm8Ek0kiliuJ-Jtt_MH/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception-et-mise-en-place-dune-solution-deep-le-d03a480ee04843ad8f1a7c9b168567cd/"
+  },
+  {
+   "title": "Conception et réalisation des états Sage BI pour la gestion des stocks avec le logiciel Sage 100cloud BI Reporting.",
+   "engineer": "GUEOUAL Chaimae",
+   "organisation": "EditInfo-IT",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "presentation"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1Mogm9ltgioVEU9w_ADz0mjTzIVLD_uUB/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/conception-et-r%C3%A9alisation-des-%C3%A9tats-sage-bi-pour-l-d671be1ef7aa40a4b79702eff01df185/"
+  },
+  {
+   "title": "Construction et l’analyse d’un graphe de connaissance biomédicale en utilisant les techniques de Deep learning",
+   "engineer": "HARNOUNE AYOUB",
+   "organisation": "ENSIAS",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "knowledge graph",
+    "clinical note",
+    "bert",
+    "her",
+    "semantic search",
+    "neo4j"
+   ],
+   "abstract": "Data science is a multidisciplinary field that uses knowledge from the fields of mathematics,\nstatistics and technology to study and evaluate data. It is a subject that deals with the identification,\nrepresentation and extraction of meaningful information from data sources in order to use them for\ncommercial or other purposes.\nIn this context, the objective of this thesis is to propose a generic approach for the construction of a\nknowledge graph using Deep Learning techniques, through textual data in the format of clinical notes\nof people in order to analyze them.\nTo meet this objective, we built a system that would automatically structure this data in a format that\nwould allow doctors and patients to quickly find the information they need. Specifically, we built a\nnamed entity recognition model that would recognize entities such as drug, strength, duration,\nfrequency, adverse drug reactions, reason for taking the drug, route of administration, and form. In\naddition, the model would also recognize the relationship between the drug and any other named entity.\nThis would allow healthcare professionals to examine not only individual entities, but all relationships\nbetween them. It would also allow healthcare professionals to easily find relationships between a drug\nand clinical notes, so that these drugs can be closely monitored.\nAnd to showcase the work that has been done, we have set up a dissemination platform to make it easy\nto visualize the prediction results.\nKeywords: Deep Learning, knowledge graph, clinical note, BERT, HER, Semantic search, Neo4j,\ngraph",
+   "reportUrl": "https://drive.google.com/file/d/1lvLp1YLuzm3L6wTxXp3gadqyNSzQUvpZ/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/construction-et-lanalyse-dun-graphe-de-connaissa-ecfab82ee6fb49cebc00a92b56cdd049/"
+  },
+  {
+   "title": "Détection de Fraude en Assurance Automobile",
+   "engineer": "Khadija IDMANSSOUR",
+   "organisation": "devoteam",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "insurance fraud",
+    "data science",
+    "machine learning",
+    "deep learning",
+    "lda"
+   ],
+   "abstract": "Fraud has become a major problem in the insurance industry. Many resources are invested\nto identify and prevent it. Traditional approaches to identifying fraud are rule-based, which\nmeans that strict and rapid rules for reporting fraudulent claims must be established manually\nand in advance. But these techniques are no longer effective because of the increase of data\nquantity to be processed and the variety of its types. For this, the techniques of Data Science\npresent the obvious solution for this problem.\nIn this regard, a client of the host company “DEVOTEAM”, which operates in the insurance\nfield, decided to invest in Data Science, in order to create a solution for automobile insurance\nfraud detection.\nThis report summarizes the work aimed at the realization of a fraud detection solution in\nautomobile insurance. This solution uses three types of data, namely structured data, images of\ndamaged cars and accident description texts.\nBefore the realization of the project, we started with a documentation relating to the various\ntechniques of resolution of the problem, namely the algorithms of supervised and unsupervised\nlearning and the algorithms of deep learning. Then, we started to design the different models\nfor each type of data. Finally, we started the realization part. We started by testing supervised\nclassification models for the structured database, namely, SVM, KNN, Random Forest,\nDecision Tree, Naïve Bayes and Logistic Regression. Then we performed the model tuning and\nafter the evaluation we were able to choose the SVM model which gave an accuracy of 0.93.\nFor image data, we started with the application of the DenseNet-201 architecture, in order to\nconfirm the damage, detect its location and its level of severity. Next, we applied optical\ncharacter recognition to read the license plate. For the textual data, we applied the LDA model\nto extract the main topics (represented as a set of words) that occur in the texts.\nKeywords: Insurance Fraud, Data Science, Machine Learning, Deep Learning, LDA,\nDenseNet",
+   "reportUrl": "https://drive.google.com/file/d/1fpG3N-EmIpP9tO2UuZsM6m52pzia9KM1/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/d%C3%A9tection-de-fraude-en-assurance-automobile-b9e9e1f996db444495bba9b85911229f/"
+  },
+  {
+   "title": "Development and deployment of a Requirements Quality Inspection tool based on Natural Language Processing",
+   "engineer": "Khalid KASSI",
+   "organisation": "Lear Corporation Engineering",
+   "promotion": "2022",
+   "language": "English",
+   "tags": [
+    "nlp",
+    "ontologies",
+    "requirements",
+    "angular",
+    "web development",
+    "quality inspection",
+    "agile",
+    "incose",
+    "automation",
+    "ai",
+    "requirements engineering",
+    "requirements validation"
+   ],
+   "abstract": "** One of the four core steps of requirements engineering is requirements validation. The goal of this step is to guarantee that the requirements, on the one hand, meet the actual wishes and needs of the stakeholders and, on the other hand, are of sufficient quality to permit effective completion of subsequent development activities such as design, implementation, and testing. Even though specific notations, description templates, and best practices for writing good requirements have existed for many years, many companies still find it difficult to capture, document and manage their requirements regarding these quality criteria, and the question of reliable automation of quality assurance arises as a result of the increasing digitization, particularly of software development activities themselves. Therefore, this project outlines the steps involved in developing a quality inspection tool that will be an automated tool capable of helping engineers improve the quality of requirements by conforming the requirements to a specific ontology, rules, processes, and templates defined in international standards using Artificial Intelligence and more specifically state-of-the-art NLP algorithms and strategies.",
+   "reportUrl": "https://drive.google.com/file/d/13uGFO8Zo-21PS2qSj40O7h444vj7W0vB/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/development-and-deployment-of-a-requirements-quali-5314ee296d0340e8b56014c4ae68352d/"
+  },
+  {
+   "title": "Development and Deployment of a Web-Based SaaS (Software-as-a-Service) App for Hotels Internal Management",
+   "engineer": "KERBAL Ilyas",
+   "organisation": "Digimental, Université Mohamed V de Rabat - Institut Scientifique",
+   "promotion": "2020",
+   "language": "English",
+   "tags": [
+    "saas",
+    "software-as-a-service",
+    "devops",
+    "ci/cd",
+    "google cloud platform",
+    "firebase"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1RKqILrKhrxBLGg5SDPR_EngKXRACN8w0/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/development-and-deployment-of-a-web-based-saas-so-991bd9efb26547e8a26658f8c4a3f652/"
+  },
+  {
+   "title": "Development and Deployment of the HR modules of an ERP for a company’s internal management",
+   "engineer": "Oussama BAOUI",
+   "organisation": "Avaliance",
+   "promotion": "2021",
+   "language": "English",
+   "tags": [
+    "django",
+    "react",
+    "azure devops",
+    "erp",
+    "digital ocean",
+    "python",
+    "typescript"
+   ],
+   "abstract": "This report summarizes the work done as part of my end-of-studies internship within\nAvaliance. The project aim is to develop and deploy a web-based ERP (Enterprise Resource\nPlanning) app, with plans to adapt it to mobile phones in the future, for the company’s internal\nmanagement. Including deployment automation and DevOps best practices.\nThe main phases that led to the completion of the project are:\nSurvey and analysis: this phase allowed me to get an idea about the application’s needs\nin terms of functionality and requirements, analysing the company’s existing ERP was\nvery essential to understanding what already exists and what need to be created from\nscratch.\nConception: During this phase, the whole development team got together to construct\na rough conception of the flow of the application (how it should look, feel and how to\ninteract with it)\nImplementation and deployment: this phase consisted firstly of defining the\napplication’s technical architecture and the tools that will be used, then secondly of the\ndistribution of the work on the team to optimize the realization of the appropriate\nmodules and functionalities offered by the application.",
+   "reportUrl": "https://drive.google.com/file/d/1p2JBE5xkU9JZKXVahJhdlzfK8ED3wm9B/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/development-and-deployment-of-the-hr-modules-of-an-95c93571b3334c7683259e29bdb9b3f6/"
+  },
+  {
+   "title": "Développement d’une application décentralisée basée sur la blockchain pour la création, signature et vérification des documents",
+   "engineer": "Omar BOUDOUAR",
+   "organisation": "Smart Transformation",
+   "promotion": "2021",
+   "language": "English",
+   "tags": [
+    "spring boot",
+    "angular",
+    "jwt",
+    "etheruem",
+    "hyperledger fabric",
+    "mongodb",
+    "smart contracts"
+   ],
+   "abstract": "**\nThis report presents the results of a four-month internship at Smart Transformation. This internship is a prerequisite to obtaining an Engineering degree diploma. The project took place within the Development team. The main objective of this project is to use the blockchain technology to develop a robust, cutting-edge tool capable of creating, signing, and verifying documents. This report depicts needs analysis, technical specifications, design, and development of the evolutions of DocCerts as well as the implemented results.",
+   "reportUrl": "https://drive.google.com/file/d/1THFB4TsLIbJLPJiQdu6P7YIspvWPOsaC/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/d%C3%A9veloppement-dune-application-d%C3%A9centralis%C3%A9e-bas%C3%A9-f49d3d19760b4c0db4db68cb2d1e2dad/"
+  },
+  {
+   "title": "Développement et amélioration de l'interface utilisateur en langage naturel : Solution élaborée pour la conversion du langage naturel en langage de requête.",
+   "engineer": "Mohamed ZOUHAOUI",
+   "organisation": "Oracle Labs",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "nlp",
+    "machine learning",
+    "natural language interface",
+    "ontology",
+    "pgql",
+    "natural"
+   ],
+   "abstract": "This document is the result of a study project work that took place at Oracle Labs on the\nconversion of natural language queries to PGQL queries. The objective of this project is to\nimprove the interface by solving the various sources of malfunctions and errors as well as the\nimplementation of new functionalities.\nThis project aims at improving the interface to convert natural language queries to QLMP\nqueries. The study also adopted SpaCy; a library for automatic natural language processing, as\nwell as various libraries for data storage, ontology creation and date management.\nBefore carrying out this project, we considered it useful to conduct a study of the previous\nresearches on the same subject and then state the functional requirements in order to define the\nobjectives to be achieved. Then, we inquired about the different technologies and techniques to\nreach the proposed solution.\nThe last step presents the realization of the different steps of the design, starting with the\nextraction of the concepts to be used to create the path corresponding to the query, then the\ncreation of the different possible paths based on the obtained concepts and ontology. Finally, the\nanalytical study allows choosing the optimal path, which is converted into an intermediate query\nthat is used to make the links between the path and the PGQL query obtained by the interface.\nKeywords: NLP, Machine Learning, Natural Language Interface, Ontology, PGQL, Natural\nLanguage Conversion to PGQL",
+   "reportUrl": "https://drive.google.com/file/d/1-sjRT64XVKQ-i0IRb33qOWJfV-MaXnz-/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/d%C3%A9veloppement-et-am%C3%A9lioration-de-linterface-utili-21a5e9a3e6dc41e3b045fb9e093c66f7/"
+  },
+  {
+   "title": "Elaboration d’un système pour le monitoring et la prédiction de la consommation électrique avec les méthodes Machine Learning et Deep Learning.",
+   "engineer": "Asmae El Aouyed",
+   "organisation": "Syntechnologie",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [
+    "monitoring system",
+    "deep learning",
+    "hybrid models",
+    "power consumption",
+    "machine"
+   ],
+   "abstract": "Electrical energy is a very important factor for the evolution of Morocco, hence the interest of\nmonitoring systems for controlling electricity consumption. This concept remains new in\nMoroccan companies, this framework is a part of our project of graduation studies, done within\nthe company &ldquo;Syntechnology&rdquo;, with the aim of designing and implementing a system of\nsupervision which is based on monitoring and forecasting of electricity consumption. During\nthis internship we identified the following objectives:\nü Diagnose existing, identify the need of society.\nü Model a monitoring system for monitoring and predicting the consumption of electrical\nenergy.\nü Implement a monitoring system.\nTo achieve this work, we first began by clarifying the needs of society at the end of the system\nfor the monitoring and the prediction of the electricity consumption, then we proceeded to its\nconception and its implementation. To improve the performance of the prediction we have\ndeveloped a benchmark between several models of the Learning machine, time series and deep\nlearning, we have created hybrid models such as Arima-SVR, ANFIS. The results of the\nevaluation show that the ANFIS model exceeds all the models developed which makes it the\nbest model of our study. The system we propose contains a billing module which is based on\ntariffs of the ranges specified by the admin. It also contains a module for forecasting electricity\nconsumption. The implementation of the system was done with the Python language for the\nApplication Backend and Html -CSS for the interfaces, the Plotly library for the visualization\nof Machine Learning and Deep Learning data and models, and the hybrid models for the\nforecast of electricity consumption.",
+   "reportUrl": "https://drive.google.com/file/d/1h4_sDRUo2Fv2WizJUMmehr3agWe6OzOs/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/elaboration-dun-syst%C3%A8me-pour-le-monitoring-et-la--1e870e168c014435b989aa32b2740e89/"
+  },
+  {
+   "title": "Elaboration d’un système pour le monitoring et la prédiction de la consommation électrique avec les méthodes Machine Learning et Deep Learning.",
+   "engineer": "ASMAE EL AOUYED",
+   "organisation": "Syntechnologie",
+   "promotion": "",
+   "language": "French",
+   "tags": [],
+   "abstract": "",
+   "reportUrl": "",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/elaboration-dun-syst%C3%A8me-pour-le-monitoring-et-la--24d57ba5f9224f179afdb81cd550d1a9/"
+  },
+  {
+   "title": "Etude VRD Du Centre National de Football De MAAMOURA",
+   "engineer": "Maryem ZARYOUHI",
+   "organisation": "",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [],
+   "abstract": "",
+   "reportUrl": "",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/etude-vrd-du-centre-national-de-football-de-maamou-fe66713e49eb44498f89ae948abd2129/"
+  },
+  {
+   "title": "Exploitation des CV de SO RECRUIT : NLP pour l'Extraction automatique d'informations pertinentes à partir de CV non structurés pour faciliter la recherche.",
+   "engineer": "Meryam NAJI",
+   "organisation": "Direction Régionale de l’Habitat et de la Politique de la Ville de la Région Fès- Meknès",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "presentation"
+   ],
+   "abstract": "",
+   "reportUrl": "",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/exploitation-des-cv-de-so-recruit-nlp-pour-lextra-6dc216e24b274c2384137ae026a74d4d/"
+  },
+  {
+   "title": "Exploitation des Tickets de Caisse pour le Suivi Budgétaire : Solution Data Science pour l'Extraction, Data Wrangling et l'Analyse Sémantique",
+   "engineer": "Islame KACHADE",
+   "organisation": "EXVIVO",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [
+    "ocr",
+    "machine learning",
+    "budget monitoring",
+    "semantic analysis",
+    "clustering"
+   ],
+   "abstract": "This document is the result of my end-of-study project work that took place in Exvivo. And\nwhich concerns the extraction of data from till receipts in order to ensure budgetary follow-up.\nThe objective of this project is to analyze and extract purchase data from the receipts of the\nvarious supermarkets in order to draw up balance sheets for individual budget forecasting.\nIn this respect, this project aims to produce a generic prototype to recognize the different shapes\nof cash register receipts, as well as an OCR for the extraction of purchase data. The study also\nadopted a Clutering model to identify names of products that are similar but spelled differently.\nThen, after multiple syntactic and semantic processing at the data level, the OCR results are\nused to implement balance sheets for individual budgeting.\nBefore starting the implementation, a study of the existing system was carried out and\nfunctional needs were defined in order to define the objectives to be achieved. Then, we\ndocumented the different technologies and techniques to realize the proposed solution and also\nfocused on work related to our project.\nFinally, the last step presents the realization of the different steps of the design, let&rsquo;s start with\nthe application of CNN model on our basis which allows to recognize the tickets, then the\nprocedure of preprocessing the tickets using image processing techniques this step is considered\npreparatory for the two following ones: segmentation and extraction. Then the analytical study\nis done on the level of the data extracted from the tickets with a clustering model: affinity\npropagation in order to correct extraction errors on the one hand in addition to Data Wrangling,\nand on the other hand to unify the nominations of products that are the same but are written\ndifferently and finally we use the processed data to establish forecast balances and conclude\ncustomer consumption habits.\nKeywords: OCR, Machine Learning, budget monitoring, semantic analysis, Clustering,\nreceipt, Data Wrangling",
+   "reportUrl": "https://drive.google.com/file/d/1RlYdDVL90IQZ7P6eP-EF9vhpPCs_qw1h/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/exploitation-des-tickets-de-caisse-pour-le-suivi-b-6fafbed57ce645b0950ea54dcaa4045b/"
+  },
+  {
+   "title": "Graph Neural Networks pour une meilleure cartographie des réseaux d’assainissement",
+   "engineer": "Reda ABDOU",
+   "organisation": "Berger Levrault",
+   "promotion": "2020",
+   "language": "French",
+   "tags": [
+    "sewer networks",
+    "graph",
+    "graph neural networks",
+    "graph convultional neural"
+   ],
+   "abstract": "",
+   "reportUrl": "",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/graph-neural-networks-pour-une-meilleure-cartograp-473d8363176446d896858acf29297202/"
+  },
+  {
+   "title": "Implémentation d'une solution \"Computer vision\" pour l'Automatisation des processus de l'identification des informations et de la reconnaissance faciale des clients de la Banque populaire",
+   "engineer": "Ayoub BELOUA",
+   "organisation": "BEREXIA Conseil",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [
+    "extraction",
+    "automation",
+    "pre-processing",
+    "ocr",
+    "face matching"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1GuUr7fnjONR6BJATmHMX4hVdpExoErDX/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/impl%C3%A9mentation-dune-solution-computer-vision-pour-2820517216524ce988bb2ed53bec94e6/"
+  },
+  {
+   "title": "Implementation of a SIEM (Security Information and Event Management) solution in relation to Active Directory",
+   "engineer": "Anass BELBARAKA",
+   "organisation": "UM6P",
+   "promotion": "2024",
+   "language": "English",
+   "tags": [
+    "SIEM",
+    "active directory",
+    "monitoring"
+   ],
+   "abstract": "The present document is the outcome of my end-of-study project conducted at UM6P, focusing on enhancing security detection capabilities by implementing Wazuh SIEM in an organization that currently uses Microsoft EDR. The objective of this project was to integrate Wazuh SIEM to improve threat detection, streamline incident response, and ensure compliance with regulatory requirements.\nThroughout this project, we meticulously planned and executed the deployment process, which included designing a robust architecture that integrates firewalls, internal networks, servers, and host PCs. We also conducted a comprehensive comparison of Wazuh SIEM with other solutions like Microsoft Sentinel and AlienVault to validate our choice of Wazuh based on its flexibility, cost-effectiveness, and strong community support.\nWe utilized various tools such as GNS3 for testing network configurations, VMware for creating virtual machines, and Ubuntu as the host OS for Wazuh. By configuring and monitoring the system through the Wazuh dashboard, we ensured seamless integration and effective management of security events and alerts.\nThis project not only enhanced our understanding of SIEM systems but also allowed us to position our implementation approach within the context of existing literature and best practices. The successful deployment of Wazuh SIEM at UM6P marks a significant improvement in our organization&rsquo;s security infrastructure, providing a reliable and comprehensive solution for ongoing threat management.",
+   "reportUrl": "https://drive.google.com/file/d/1qr9J-UNUcVxiTnM1xRKdZMuxKf-mhZNV/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/implementation-of-a-siem-security-information-and-event-management-solution-in-relation-to-active-directory/"
+  },
+  {
+   "title": "In silico prediction of influenza virus (H9N2) antigenicity from its hemagglutinin sequence and determination of antigenic sites likely to induce vaccination escape post mutation.",
+   "engineer": "Bassma YAHIA",
+   "organisation": "IAV",
+   "promotion": "2020",
+   "language": "English",
+   "tags": [
+    "h9n2",
+    "hemagglutinin sequence",
+    "antigenic sites",
+    "machine learning",
+    "convolutional"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1pIXSj-Urt9UOkDpzaZYpXj836xBkTEMS/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/in-silico-prediction-of-influenza-virus-h9n2-ant-bf057e6f3fbd4bc180cdd99248b9a0f0/"
+  },
+  {
+   "title": "Intelligent cyber-security data lake: Construction d'un système de centralisation et de surveillance des logs hétérogènes et détection d'anomalies sur la base de modèles de deep learning",
+   "engineer": "Youssra SAADEDDINE",
+   "organisation": "Atlas Cloud Services",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "log management",
+    "log analysis",
+    "data lake",
+    "elk stack",
+    "deep learning",
+    "nlp",
+    "anomaly"
+   ],
+   "abstract": "In an IT infrastructure, applications, network devices, operating systems and any programmable\nor intelligent device generate thousands of logs daily. Thanks to the analysis of these logs,\nmalicious attacks, intruders and security vulnerabilities can be detected.\nThis report summarizes the fruit of our work which aimed to build a cybersecurity Data Lake that\ncan centralize and manage large amounts of logs with different formats based on the ELK Stack\nsolution.\nWe used filebeat and logstash for log collection and preprocessing, elasticsearch for indexing and\nlog storage, Kibana for descriptive analysis and creation of dashboards, so we generated security\nalerts using logstash.\nWith regard to the detection of anomalies we proposed an «AElog» model which is based on deep\nlearning techniques, more precisely the trasformers and the CNNs. The results show the reliability\nof our model by providing predictions with attenuating performance levels over 99%.\nKeywords: log management, log analysis, data lake, ELK Stack, deep learning, NLP, anomaly\ndetection, BERT, CNN",
+   "reportUrl": "https://drive.google.com/file/d/1EjAKCPuOV5TT6GV-nUxfjS9loqbOzLjR/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/intelligent-cyber-security-data-lake-construction--f92b5e5f22e24a92a3e64d6764647a9d/"
+  },
+  {
+   "title": "L’apprentissage multi-tâche pour la segmentation et la classification des cancers à partir des images médicales",
+   "engineer": "IKRAM IAICH",
+   "organisation": "ENSIAS",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "multi-task learning",
+    "segmentation",
+    "classification."
+   ],
+   "abstract": "Cancer is a very dangerous disease that always requires an accurate and early diagnosis. During\nthe treatment process, a large amount of imaging data is generated. This huge amount of data is usually\ncomplex and difficult to interpret with human vision because of the noise caused by the imaging\nsystems and the diversity of modality, source and size.\nArtificial intelligence today is widely applied to all aspects of medical image analysis, including\noncology, making high precision diagnosis possible. It is proving to be one of the best ways to analyze\nand make predictions based on large imaging data sets. The advent of AI methods and deep learning\nin particular is bringing great success in many computer vision applications such as medical image\nclassification and segmentation. Both of these tasks provide a better understanding of cancer and a\nbetter definition of the most effective treatment. But technically, classification and segmentation\nmodels are very expensive and require large datasets, powerful RAM and long training times.\nMulti-task learning, a deep learning algorithm, is the best way to overcome the problems of singletask classification and segmentation. It allows to improve the results of both tasks by using a single model that shares the necessary resources.\nIn this context, the objective of this report is to implement a Deep Learning-based solution for the\nclassification and segmentation of different types of cancer from medical images of different\nmodalities. To meet this objective, we have built two Multi-task models for the classification and\nsegmentation tasks in order to choose the best model later on. Both models are based on the U-net\nModel by replacing its encoder with pre-trained models(VGG&amp;-, Mobilenetv2). The proposed models\nare evaluated and compared with other single-task techniques of image segmentation and classification\nnamely U-net for segmentation and VGG-16 and Mobilenetv2 for classification. The obtained results\nshow very encouraging performances of the multi-task compared to the single-task models.",
+   "reportUrl": "",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/lapprentissage-multi-t%C3%A2che-pour-la-segmentation-e-89179435511342ad88744c768f656f15/"
+  },
+  {
+   "title": "Le traitement du langage naturel pour l'analyse des données textuelles avec les méthodes machine-learning et deep-learning: Une étude de cas sur les demandes des clients de la Caisse Marocaine des Retraites.",
+   "engineer": "Ghizlane BOURAHOUAT",
+   "organisation": "Caisse Marocaine des Retraites",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "nlp",
+    "machine learning",
+    "deep learning",
+    "query analysis",
+    "lda",
+    "short text",
+    "automatic responses"
+   ],
+   "abstract": "**\nCustomer relations are one of the priorities of companies and organisations, the customer is king, so these\nrequests and complaints must be taken seriously. These requests can come from different sources, and\nspecifically through innovative technology platforms and tools. With the increase of these requests, the need to\nanalyse them arises. These requests, which are unstructured, express the need, dissatisfaction or others must be\nanalysed and studied to present a quality service with the required quality.\nGenerally, organisations rely mainly on structured data to detect and predict customer needs because of the\ndifficulty of detecting needs and desires from textual data. Hence the importance of natural language processing\n(NLP) techniques.\nThis report summarises the work carried out, which aims to analyse the requests of the clients of the Moroccan\nPension Fund in order to improve the quality of service. This project is divided into three phases, namely the\nextraction of themes present in the requests with the LDA algorithm, an analytical phase and a phase for the\ndevelopment of an automatic response system. In general, this project aims to exploit natural language\nprocessing, machine learning and deep learning techniques to build a model capable of analysing customer\nrequests.\nIn this sense, we carried out a Topic Modeling consisting of detecting the themes residing in the customer\nrequests that reached a Topic coherence value equal to 57%, then we conducted an analytical study according\nto designed KPIs. Finally, we carried out an automatic response system with a deep learning model which\nachieved a better accuracy of 94%.",
+   "reportUrl": "https://drive.google.com/file/d/1qpOhxDi8UAwMD97M_rd7NvpToaLK32Az/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/le-traitement-du-langage-naturel-pour-lanalyse-de-b61cdb9e336c42f2b9edadaa975ad932/"
+  },
+  {
+   "title": "Leveraging Natural Language Processing Techniques to Analyze Agricultural Text Data: A Case Study on Risk Assessment Approaches",
+   "engineer": "Hasna NAJMI",
+   "organisation": "OCP",
+   "promotion": "2019",
+   "language": "English",
+   "tags": [
+    "machine learning",
+    "natural language processing",
+    "text data",
+    "risk"
+   ],
+   "abstract": ":\nDetecting opportunities and threats from massive text data is a challenging task for\nmost. Traditionally, companies would rely mainly on structured data to detect and\npredict risks, losing a huge amount of information that could be extracted from\nunstructured text data.\nFortunately, industry 4.0 Technologies came to remedy this issue by innovating in\ndata extraction and processing techniques, allowing us to understand and make use\nof Natural Language data and turning it into structures that a machine can process\nand extract insight from.\nThis project aims to leverage natural language processing and machine learning\ntechniques to build a model capable of modeling uncertainties and evaluating the\nrisk level in each uncertainty cluster using massive text data.\nThis work focuses mainly on information extracted regarding the agricultural field.\nKey words: Machine Learning, Natural Language Processing, Text data, Risk\nanalysis, Risk evaluation, Agricultural Risk Assessment, Unstructured data.",
+   "reportUrl": "https://drive.google.com/file/d/1-tghAqrNCc0aiV140rZsuQc0xdehyeYe/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/leveraging-natural-language-processing-techniques--6d7969fd812643c7b3995af518aaf28e/"
+  },
+  {
+   "title": "Migration du module Activité Commerciale de Mercedes Benz France et la Maintenance corrective de son système d’information décisionnel.",
+   "engineer": "Chaimae ABABOU",
+   "organisation": "UMANIS",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "bi system",
+    "etl",
+    "datawarehouse",
+    "reporting",
+    "informatica",
+    "ibm cognos"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1gf6kekXZf6ld0IJoIM8ZWfjqmOe2DxjS/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/migration-du-module-activit%C3%A9-commerciale-de-merced-b9c04e15fb0b4e0fa8eea589fcfaa7fb/"
+  },
+  {
+   "title": "Mise en place d’une solution Big Data et Machine Learning pour prédire les incidents ferroviaires",
+   "engineer": "Bouchra Bouziane",
+   "organisation": "ONCF",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1Oj_Wl7_8cjSriGHkB4GrXIxcnDEGciOy/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/mise-en-place-dune-solution-big-data-et-machine-l-b0555406a08b406e8f158a6a4e8c551b/"
+  },
+  {
+   "title": "Mise en place d’une solution Deep Learning pour la fouille de l’opinion exprimée dans les retombées de presse au profit des clients d’Imperium Media",
+   "engineer": "Hajar NAQACHI",
+   "organisation": "Imperium media",
+   "promotion": "2018",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "opinion analysis",
+    "press releases",
+    "cnn convolutional neural"
+   ],
+   "abstract": "Among the fields of application of data analysis for value creation, Data as a science is a\nvery rich domain that allows companies to structure and automate the processing of their data,\nusing a &ldquo;Cloud&rdquo; network which ensures the confidentiality of the information communicated.\nThis dissertation is part of the final project to obtain the degree of State Engineer at the\nSchool of Information Sciences (ESI), which took place within Imperium Media, one of the\nmost recognized data providers in Morocco, for a four-month time interval.\nThe goal of this research is to develop a solution for automating the analysis of opinions\nbased on the impact of the press by using deep learning technology.\nAchieving this goal requires three phases:\nTo have a wide visibility vis-à-vis the existing within the company, its know-how and the technologies used, in order to adapt the solution to the existing needs.\nGather a lot of documentation about the key terms that make up the subject, namely the analysis of feelings, deep learning and of course the relationship between the two.\nDesign and implement the press releases analysis solution to derive the tone of each article using convolutional neural networks (CNNs) and recurrent neural networks\n(RNNs), and making use of important libraries offered by Python, such as TensorFlow,\nKeras, NumPy and PyMongo libraries &hellip;\nThus, in order to chart the path towards the achievement of these objectives, we adopted a\ndirect observation method, a method of documentary research and field investigation.\nThis approach has led to a better design of the solution that responds perfectly to the\nproblem identified. Thus, we have been able to implement highly developed tools and very\nefficient methods for storing, processing and analyzing large amounts of data using different\nalgorithms of Deep Learning.\nKeywords: Deep Learning, opinion analysis, press releases, CNN convolutional neural\nnetworks, recurrent neuron networks RNN, MongoDB, PyMongo, TensorFlow, NumPy,\nKeras.",
+   "reportUrl": "https://drive.google.com/file/d/1DFto4f3JzWRE9cgnTg1DBwM8uqTvQPSJ/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/mise-en-place-dune-solution-deep-learning-pour-la-dd345488229e4fb1b3e7451fe85f425d/"
+  },
+  {
+   "title": "Mise en place d’une solution Machine Learning pour la maintenance prédictive dans l’industrie 4.0.",
+   "engineer": "Fatima Ezzahra ASSANFE",
+   "organisation": "amee - Agence Marocaine Pour L’Efficacité Energétique",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "data",
+    "machine learning",
+    "predective maintenance",
+    "industry 4.0",
+    "analysis algorithm"
+   ],
+   "abstract": "The growing amount of data accessible in nearly every sector necessitates the use of\nalgorithms for automated data analysis. This requirement is underlined in predictive\nmaintenance, where the ultimate goal is to forecast hardware component failures by continually\nmonitoring their state in order to schedule maintenance activities ahead of time.\nThese observations, which are often in the form of time series and event logs, are created\nby monitoring systems and cover the lifespan of the respective components. The major\ndifficulty of data driven predictive maintenance is analyzing this history of observation in order\nto create predictive models.\nMachine Learning has grown common in this field since it allows for the extraction of\ninformation from a multitude of data sources with minimal human interaction.\nThe objective of this project is the realization of a Machine Learning solution for\npredictive maintenance in industry 4.0. This project is divided into 3 parts. First, we started\nwith a presentation of AMEE, the host organization. Then, we presented the methodologies and\nalgorithms of Machine Learning using a documentary approach based on scholarly articles on\nthe same subject. Finally, we started the realization of the predictive solution using the Machine\nLearning algorithms.\nKeywords :\nData, Machine Learning, Predective Maintenance, Industry 4.0, Analysis algorithm,\nPredictive Model, Data preparation, Algorithmic model.",
+   "reportUrl": "https://drive.google.com/file/d/18CQ9rIXzoc4HAJbZr2m5Lp1-fZgn6G0H/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/mise-en-place-dune-solution-machine-learning-pour-23f3727c0b4a4bf19836674a88a1fe36/"
+  },
+  {
+   "title": "Pilotage de l’activité bancaire de la CDG : Analyse et prédiction à l’aide des technologies du BI & ML",
+   "engineer": "Narjiss Elhamri",
+   "organisation": "CDG",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/19bl2mRdcDUQMwwOSz9ugW3gUcPNkDAKk/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/pilotage-de-lactivit%C3%A9-bancaire-de-la-cdg-analyse--ce94533fffa246de8d2236048791c3e7/"
+  },
+  {
+   "title": "Prédiction & classification des Incidents Ferroviaires du Matériel Roulant.",
+   "engineer": "Samah DAOUDI",
+   "organisation": "ONCF",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "prediction",
+    "railway incidents",
+    "data science",
+    "time series",
+    "machine learning",
+    "deep"
+   ],
+   "abstract": "The rail transport system is made up of industrial assets that require considerable investment in\nterms of maintenance. This applies to rolling stock such as trains, locomotives, wagons, and\neven more to infrastructure such as tracks and tunnels. However, environmental conditions or\nmechanical forces can lead to degradation of the tracks and machines.\nIn this context, the objective of this report is to design and implement a predictive solution of\nfuture incidents for the Office National des Chemins de Fer.\nThis predictive analysis uses historical data of the ONCF, in the form of time series, this\ninformation is stored to allow the realization of several analyses and to make more informed\nstrategic decisions for the future.\nAfter a good documentation of the different techniques dedicated to solve the problem, namely,\nthe machine learning algorithms and those of deep learning, then, we conceptualized our project\nwith a process to follow during the realization of this project, to finally start the realization part\nwhich includes three main parts, the prediction of the number of breakdowns per day, the\nprediction of the delays of the breakdowns (direct delay, indirect delay and cumulative delay)\nand the classification of the nature of the railway breakdowns.\nFirst, for the prediction of the number of failures per day, we tested a range of models, namely,\nARIMA, LSTM, BiLSTM, GRU and SVR, the latter with better results in terms of coordination\nof test and predicted data. Then, for the prediction of the failure delays, we used the VAR model\nand LSTM, after the evaluation, we could conclude that LSTM gives better results of accuracy\nwith 92% and an RMSE equal to 0.006. Finally, for the classification of the nature of failures,\nwe tried several Machine Learning models, such as k-Nearest Neighbours, SVM, Random\nForest&hellip;\nKeywords: Prediction, Railway incidents, Data Science, Time Series, Machine learning, Deep\nlearning, ARIMA, LSTM, SVM, GRU.",
+   "reportUrl": "https://drive.google.com/file/d/1WCR3P6hyzv7vUBROIu6b5YO50le3fJg5/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/pr%C3%A9diction--classification-des-incidents-ferrovia-a4faf3869c4a433a8a69f55250195043/"
+  },
+  {
+   "title": "Prédiction de la consommation électrique par un prototype de Machine Learning et Deep Learning : Comparaison entre les Méthodes uni-variées et multivariées, étude de l’impact des données météorologiques et la génération des énergies renouvelables.",
+   "engineer": "Naima OUBALOUK",
+   "organisation": "Université Mohamed V de Rabat - Institut Scientifique",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "monitoring system",
+    "prediction",
+    "univariate",
+    "deep learning",
+    "hybrid models"
+   ],
+   "abstract": "Electric energy is a main cog in the economic circuit in Morocco, in which all activity is both\ncause and consequence of development, especially with the development of Smart Grid hence\nthe interest of monitoring systems for control, good planning to forecast electrical loads and\nreduction of excessive electricity generation. These kinds of systems also allow for realistic\nenergy price estimation, scheduling management and future capacity planning.\nIt is in this context that our end-of-study project, carried out within the scientific institute of\nRabat, has objective to design and implement a supervision system, which base on the forecast\nof the consumption of electrical energy. To do this, we base on a comparison between several\nmethods used to forecast energy in order to understand the impact of meteorological data on\ntheir forecast performance on the one hand and an analysis of the relationship between the total\nload of electricity (consumption) and the generation of renewable solar and wind energy. We\nconsider both time series and linear statistical regression models as well as linear and nonlinear\nmachine learning and deep learning methods. We will also create hybrid methods by combining\nthese different models.\nTo achieve this work, we first started by specifying the body&rsquo;s needs at the end of the monitoring\nsystem for the prediction of electricity consumption, then we proceeded to its design and\nimplementation. In order to improve the performance of the prediction, we have developed a\nbenchmark between several models of time series, machine learning, and deep learning to deal\nwith the univariate and multivariate case. We have also implemented hybrid models such as\nARIMA&amp;SVR, ARIMA&amp;LSTM, and CNN&amp;LSTM.\nThe results of the evaluation show that deep learning models and hybrid models perform\nbetter for both modalities. The CNN&amp;LSTM model outperforms all models developed, making\nit the best model in our study. The system implementation with Python language, known for\nboth its simplicity and its robustness and which relies on more solid libraries for data\nvisualization and implementation of time series models, Machine Learning and Deep Learning\nfor Forecasting.\nKeywords: Monitoring system, Prediction, Univariate, Deep Learning, Hybrid models,\nelectricity consumption, Smart Grid, economic, renewable Énergies, Multivariate, Machine\nLearning, Python.",
+   "reportUrl": "https://drive.google.com/file/d/1d6snB1x8PVNabWYtWeyl_dgeOV-7f0TR/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/pr%C3%A9diction-de-la-consommation-%C3%A9lectrique-par-un-pr-87baaa26f55f4d8982bcfe4965f11515/"
+  },
+  {
+   "title": "Prédiction des propriétés du sol à l'aide des Signatures spectrales de sols par Intelligence Artificielle",
+   "engineer": "Layla RAZZOUGUI",
+   "organisation": "MASciR",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "machine learning",
+    "artificial intelligence",
+    "vis-nir spectroscopy"
+   ],
+   "abstract": ".\nAs part of my end-of-studies project at the School of Information Sciences (ESI) and\nin order to obtain the state engineer diploma in data and knowledge engineering, I carried out\nmy end of studies internship at MAScIR in Rabat.\nIn recent years, VIS-NIR spectroscopy has rapidly emerged and become one of the most\npowerful tools for the analysis, control and detection of soil characteristics. The aim of VISNIR spectroscopy is to obtain the spectral signature, which can be used as a fingerprint to\ncharacterize the chemical composition of soil characteristics. This work consists of using the\ntechnology of VIS-NIR spectroscopy, for the processing and manipulation of spectral\ndatabases, also using artificial intelligence.We distinguish two machine learning approaches:\nregression and classification which in our project has made the objective of several tests in\norder to predict with great precision the characteristics of the soil among others the PH,\nnitrogen, Phosphorus P, Potassium K, the organic matter OM and the electrical conductivity\nEC. Specifically, this report synthesizes the fruit of our work which aimed to predict the\ncharacteristics of European soils. Before embarking on the realization of the project we\nstarted the documentation relating to the spectroscopy and the application of artificial\nintelligence in the field of agriculture as well as the selection of attributes and evaluation of\nthe models. Finally, the last step presents the realization of the different stages of the\nprediction process, from the preparation of data to the implementation of the models. The\napproach is tested using a European LUCAS 2015 soil spectral database.\nKeywords: Deep learning, machine learning, artificial intelligence, VIS-NIR spectroscopy,\nspectral data, spectral signature, soils, agriculture, LUCAS 2015",
+   "reportUrl": "https://drive.google.com/file/d/1HzsHCGkjCScA2-JIi74Bdre7ixpCADIp/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/pr%C3%A9diction-des-propri%C3%A9t%C3%A9s-du-sol-%C3%A0-laide-des-sign-7311d3ec230c48d49eaba01c2312acef/"
+  },
+  {
+   "title": "Prédiction du flux de trafic autoroutier avec des séries chronologiques multivariées et intégration de données de multiples sources: cas de la société ADM",
+   "engineer": "Kaoutar AISSAOUI",
+   "organisation": "Autoroutes du Maroc",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "highway traffic prediction",
+    "deep learning",
+    "machine learning",
+    "multivariate time"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1-J7VlYdg3Y_iyhYCSP1b40zYM9uRf9Y2/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/pr%C3%A9diction-du-flux-de-trafic-autoroutier-avec-des--a96fee1ee001442399b0af551eb52506/"
+  },
+  {
+   "title": "Réalisation d’une solution décisionnelle et prédictive de l'offre de soins et de l’épidémiologie au sein du Ministère de la Santé.",
+   "engineer": "Mohammed OUALOUANE",
+   "organisation": "Ministère de la Santé",
+   "promotion": "2018",
+   "language": "French",
+   "tags": [
+    "ministry of health",
+    "health care",
+    "epidemiology",
+    "decision",
+    "data",
+    "sql server"
+   ],
+   "abstract": "This dissertation is the result of our graduation project at the School of Information\nSciences, conducted within the Planning and Studies Division of the Ministry of Health, to\nobtain the title of Engineer in Data and Knowledge.\nDuring the four months dedicated to this opportunity, this project aims to set up a\ndecision-making solution that helps to monitor the health care and epidemics at the national\nlevel. In this regard, dashboards and reports have been developed that will enable the\nstatisticians of the Division to manage and manipulate data on care provision and epidemics.\nThe realization of our project is supported using the Microsoft BI suite, through SQL\nServer for the creation of the data warehouse, the integration of data with Visual Studio and\nPower BI for Reporting.\nThe final goal of the work is therefore a decision-making solution, which allows its\nusers, according to their profiles, to access the information synthesized all available data, by\nconsulting the reports made available to them.\nKey words: Ministry of Health, Health care, Epidemiology, Decision, Data, SQL Server,\nReporting and dashboards.",
+   "reportUrl": "https://drive.google.com/file/d/1hYUX06uIl1Qol2dpDPjRJNSEvCdauuxL/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/r%C3%A9alisation-dune-solution-d%C3%A9cisionnelle-et-pr%C3%A9dic-2450290d8c1442679c457d520c87c321/"
+  },
+  {
+   "title": "Refonte de la plateforme SAP BI pour l’optimisation des KPIs de l’activité commerciale du Holding Al Omrane",
+   "engineer": "Majdouline AZHAR",
+   "organisation": "Al omrane",
+   "promotion": "2017",
+   "language": "French",
+   "tags": [
+    "bi",
+    "datamart",
+    "datawarehouse",
+    "sap bw",
+    "sap bo",
+    "sap r\\3",
+    "kpi"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/19HGb1L4-jGOIQGDraz544EKSIwroa68I/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/refonte-de-la-plateforme-sap-bi-pour-loptimisatio-918e8a47f78e4c55bde67e60f87aeb86/"
+  },
+  {
+   "title": "Répondre automatiquement aux incidents IT par le Deep Learning et proposition d’une nouvelle approche question answering basée sur SpanBERT et LSTM",
+   "engineer": "Nour Eddine ZEKAOUI",
+   "organisation": "GRUPO AVALON",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "question-answering",
+    "automatic incident responses",
+    "deep learning",
+    "beto"
+   ],
+   "abstract": "Question answering has become one of the main objectives of companies. It automatically\nprovides immediate answers to problems that a user may encounter when interacting with a\nservice offered by a company. Traditional methods of incident response have several\nlimitations that can impose damage and loss, and which can lead to critical shutdowns of\nbusiness processes. In this regard, the host organization « Grupo AVALON » which operates\nin the IT field has decided to invest in artificial intelligence, intending to implement a question\nanswering solution to answer automatically to IT incidents reported by its customers and\nemployees. Therefore, to meet the needs of the host organization, we proposed a solution\nbased on the latest models that marked the new era of natural language processing to provide\nrapid, automatic, and correct responses to incidents, through the use of textual data.\nOn the other hand, for a precise definition of the objectives, we carried out a study and a\nneeds analysis, with the intention of best meeting the expectations concerning the project.\nThen, we were inspired by a recent literature review, which allowed us to analyze the different\nscientific approaches adopted to solve the problem, namely, Deep Learning models and\nmodels based on transformers like BERT and its variants.\nFinally, we developed and compared the Deep Learning models, namely, BETO, BERT,\nmBERT, SpanBERT, then we proposed new approaches based on the hybridization of these\nmodels. In particular, BETO-LSTM, BETO-BiLSTM, BERT-LSTM, BERT-BiLSTM, SpanBERTLSTM, SpanBERT-BiLSTM, SpanBERTLarge-LSTM, and SpanBERTLarge-LSTM and this, for two\ntypes of datasets. To conclude, that the BETO model is the one that best models the incident\ndataset with an F1 score of 88.77%. Then, thanks to our approach, we were able to exceed\nand outperform the advanced models, namely, BERT and its variant SpanBERT, by our\nSpanBERTLarge-LSTM model which gave the best result with an Exact Match of 84.5094% on\nthe benchmarking question answering dataset SQuaD.",
+   "reportUrl": "https://drive.google.com/file/d/1cmfdh3nRLI2W5_bvAIbL-LVtdz06grH0/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/r%C3%A9pondre-automatiquement-aux-incidents-it-par-le-d-9b3a28442dd94908b96d35370b618b9c/"
+  },
+  {
+   "title": "Réseaux antagonsites génératifs ( GAN ) et apprentissage actif ( AL ) pour la détection non supervisée des transactions bancaires frauduleuses",
+   "engineer": "Hajar AFILAL",
+   "organisation": "Société générale",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [
+    "deep learning",
+    "generative adversarial networks",
+    "active learning",
+    "outliers",
+    "bank"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1M5ERKqgGoiO_kU6zkT-S_WGrF1cNUU6D/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/r%C3%A9seaux-antagonsites-g%C3%A9n%C3%A9ratifs--gan--et-apprent-a21419e0bd864f31948121b503bc2d2d/"
+  },
+  {
+   "title": "Robustness Enhancement in Chatbot NLU Models via Adversarial attacks, Data Augmentation and Adversarial Training.",
+   "engineer": "Ayoub AKENNAF",
+   "organisation": "MASciR",
+   "promotion": "2021",
+   "language": "English",
+   "tags": [
+    "nlp",
+    "nlu",
+    "ner",
+    "pos",
+    "rnn",
+    "mlp",
+    "lstm",
+    "bert",
+    "api",
+    "xml",
+    "sr",
+    "chatbot",
+    "adversial attacks"
+   ],
+   "abstract": "",
+   "reportUrl": "https://drive.google.com/file/d/1GuQBa_hOAbCM7JdFlgYLopS5TxhWMuP9/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/robustness-enhancement-in-chatbot-nlu-models-via-a-e1359befd78842b88306094319c86ab9/"
+  },
+  {
+   "title": "Système de recommandation des livraisons basé sur l'optimisation des itinéraires",
+   "engineer": "Fatima Zahra BOUSKIL",
+   "organisation": "SOFT CENTER",
+   "promotion": "2021",
+   "language": "French",
+   "tags": [
+    "recommendation system",
+    "machine learning",
+    "collaboratif filtering",
+    "based content"
+   ],
+   "abstract": "Recommendation systems are among the promising aspects of machine learning that\nhave revolutionized information retrieval.\nThis thesis entitled &ldquo;Delivery recommendation system based on route optimization&rdquo; is\na synthesis of our final year project, carried out within the company SoftCentre, in order to\nobtain the diploma of Data and Knowledge Engineer at the School of Information Sciences.\nThis thesis introduces the use of a set of &ldquo;Machine Learning&rdquo; technologies in the field\nof recommendation systems .In particular our entire project aims to create a recommendation\nsystem that provides deliverers with relevant request recommendations to deliver as well as\ncalculate the shortest path.\nTo achieve this objective, we studied the scientific literature related to the subject in\norder to fully understand the problem and to identify possible solutions. Then we developed\nan overall solution design that shows the process followed to arrive at a recommendation\nsystem for deliverable requests.\nThe results of the recommendations obtained prove the capacity of artificial\nintelligence and specifically machine learning to solve this type of problem.",
+   "reportUrl": "https://drive.google.com/file/d/1avaiPyUSRBYwgZkbGHuXp2drxEZ8r9RY/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/syst%C3%A8me-de-recommandation-des-livraisons-bas%C3%A9-sur--d42e35202afe46d5be49e5ec943f01cf/"
+  },
+  {
+   "title": "Vers un système Smart CRM d’analyse prédictive pour la création d’une vision 360 des clients de Safar Flyer : conception et mise en œuvre d’un système de scoring utilisant les algorithmes du Machine Learning",
+   "engineer": "Doha Raissouni",
+   "organisation": "Royal Air Maroc",
+   "promotion": "2019",
+   "language": "French",
+   "tags": [
+    "safar flyer",
+    "loyalty",
+    "kpis",
+    "scoring",
+    "machine learning",
+    "rfm segmentation",
+    "churn"
+   ],
+   "abstract": "Customer loyalty is one of the main concerns handled by relationship marketing services, so\nfor ROYAL AIR MOROCCO as a service company, its ultimate goal is to have how to retain\nits customers and especially customers who travel often and which contribute to the\ncontinuous increase of turnover. In this fact, ROYAL AIR MAROC needs to have a complete\nvision of its Safar Flyer customers in order to carry out more targeted marketing actions for\nthe loyalties.\nIt is in this perspective that the end-of-study project that we developed within the ROYAL\nAIR MAROC was set up and which had as its objective: the 360 vision of the client Safar\nFlyer, in fact 6 sub- objectives served as a framework in this perspective which are :\n➢ Have a culture in marketing and aerial field.\n➢ Identify data sources and combinations.\n➢ Define the KPIs and computed ones to have meaningful information.\n➢ Used the machine learning to predict the churn score.\n➢ Calculate the value of the customer&rsquo;s life.\n➢ Create a scoring system based on KPIs, churn, customer value, and RFM segmentation\nfor 360 vision.\nIn this fact, we have adopted three methods of collating data and information : the\ndocumentary method that allowed us to search, identify and find separate documents related\nto our research topic, the Inquiry to fully understand the need through the interaction with the\nprofessionals of the field and the benchmarking to compare the used tools thus to know which\nis the most relevant solution to answer the needs in an optimal way.\nIn this regard, we adopted an agile method that allowed my tutor to focus on the result.\nIndeed, the adoption of this method allowed us to meet the challenges of design and\nimplementation.",
+   "reportUrl": "https://drive.google.com/file/d/1bCJbtjzHDpyKVq0bDWAUMwGNUcTADJal/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/vers-un-syst%C3%A8me-smart-crm-danalyse-pr%C3%A9dictive-pou-06fa344d58c94869a9378460978ffd50/"
+  },
+  {
+   "title": "Vers une solution de veille e-réputation, basée sur la technologie Big Data, pour l’extraction et l’analyse des sentiments sur Twitter : Cas du tourisme marocain",
+   "engineer": "Fatima Ez-zahra ELGHAMRASNI",
+   "organisation": "Ministère du Tourisme",
+   "promotion": "2016",
+   "language": "French",
+   "tags": [
+    "opinion mining",
+    "e-reputation",
+    "tourism",
+    "morocco",
+    "big data",
+    "spring xd",
+    "spark"
+   ],
+   "abstract": "This report summarizes the work done as part of my graduation project within the\nMinistry of Tourism. The project objective is the realization of a Big Data solution that extracts\ndata from Twitter, to analyze the opinion expressed by Twitter users towards Morocco as a\ntourist destination, and view the results.\nBefore turning to the functional details of the solution, a study of the existing within the\nMinistry to identify needs related to e-reputation, and expectations of stakeholders from my\nproject. This is done using a predefined search methodology.\nThen I led a study on e-reputation in the tourism sector, the advent of Web 2.0 and Big\nData, and then another study on the use of technology to analyze Big Data and visualize the\nopinions of tourists on Twitter; to have a solid background before starting the realization part.\nThe modeling of information flows, use cases of the solution, interaction user interfaces\nand deliverables are necessary. For this reason, I spent a part in the overall design of the\nsolution. While the second part, I realized a practical benchmark of few bricks of my solution.\nFinally, I presented the different components of my solution and the interactions\nbetween them, the last part is a tangible example of the proposed solution.",
+   "reportUrl": "https://drive.google.com/file/d/16J4OY6a3sYdXh-OlEivDj4R4Xy8FcSAI/preview",
+   "presentationUrl": "",
+   "page": "https://esihub.net/reports/vers-une-solution-de-veille-e-r%C3%A9putation-bas%C3%A9e-su-b4555c315968404587fd1e8978422e64/"
+  }
+ ]
+}

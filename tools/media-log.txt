@@ -1,0 +1,24 @@
+[hero] nothing usable found
+[campus] 01-University_Park_MMB_E4_Tower_Building.jpg (2349x1550 image/jpeg 2.1 MB)
+[campus] 02-3840px-Technische_Universit_C3_A4t_Wien_mainbuilding_mainentrance_northview.jpg (5019x3231 image/jpeg 2.2 MB)
+[campus] 03-3840px-Attica_06-13_Athens_30_University.jpg (4734x2675 image/jpeg 1.3 MB)
+[campus] 04-Univerza_v_Ljubljani_01.jpg (3555x2275 image/jpeg 2.4 MB)
+[campus] 05-3840px-TU_Wien_Lange_Nacht_der_Forschung_2014-DSC_8845w.jpg (4506x3690 image/jpeg 1.6 MB)
+[library] 01-Duke_Humfrey_27s_Library_Interior_1_2C_Bodleian_Library_2C_Oxford_2C_UK_-_Diliff.jpg (1901x1772 image/jpeg 1.6 MB)
+[library] 02-Duke_Humfrey_27s_Library_Interior_2_2C_Bodleian_Library_2C_Oxford_2C_UK_-_Diliff.jpg (2062x1772 image/jpeg 1.7 MB)
+[library] 03-Duke_Humfrey_27s_Library_Interior_3_2C_Bodleian_Library_2C_Oxford_2C_UK_-_Diliff.jpg (1970x1772 image/jpeg 1.9 MB)
+[library] 04-Duke_Humfrey_27s_Library_Interior_4_2C_Bodleian_Library_2C_Oxford_2C_UK_-_Diliff.jpg (2263x1772 image/jpeg 2.1 MB)
+[library] 05-Duke_Humfrey_27s_Library_Interior_5_2C_Bodleian_Library_2C_Oxford_2C_UK_-_Diliff.jpg (2120x1772 image/jpeg 2.0 MB)
+[lecture] nothing usable found
+[students] 01-3840px-Vilnius_University_09.jpg (4000x6016 image/jpeg 2.9 MB)
+[lab] nothing usable found
+[network] nothing usable found
+[graduation] nothing usable found
+[life] 01-Jubilee_Campus_MMB_B0.jpg (2624x3672 image/jpeg 3.3 MB)
+[rabat] 01-Pedestrians_and_Kasbah_Walls_-_Rabat_-_Morocco.jpg (3456x2304 image/jpeg 3.1 MB)
+[rabat] 02-Ahl_Fas_Mosque_-_rabat.jpg (3648x2736 image/jpeg 2.2 MB)
+[rabat] 03-3840px-Photographers_in_Rabat.jpg (5184x3527 image/jpeg 2.3 MB)
+[rabat] 04-3840px-Bab_al_Soufara_2C_Remparts_of_Almohad_2C_Rabat__28_D8_A8_D8_A7_D8_A8__D8_A7_D9_84_D8_B3_D9_81_D8_B1_D8_A7_D8_A1_D8_8C__D8_A8_D8_A7_D8_A8__D8_A7_D9_84_D8_B3_D9_81_D8_A7_D8_B1_D8_A9_-__D8_A7_D9_84_D8_B1_D8_A8_D8_A7_D8_B7_29.jpg (4466x3540 image/jpeg 1.8 MB)
+[video] nothing usable found
+
+16 assets recorded -> frontend/src/data/media.json

@@ -1,0 +1,6 @@
+Django==5.2.18
+djangorestframework==3.18.3
+django-cors-headers==4.9.0
+python-dotenv==1.2.4
+# Only imported by catalog/corpus.py, on the mirrored EsiHub files; no corpus folder, never used.
+pypdf==6.20.0

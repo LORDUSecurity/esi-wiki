@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-ink-950 text-ivory font-sans antialiased;
+    letter-spacing: 0.01em;
+  }
+
+  h1, h2, h3 {
+    @apply font-display;
+    letter-spacing: -0.015em;
+  }
+
+  ::selection {
+    background: rgba(212, 175, 103, 0.28);
+    color: #fff;
+  }
+
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: #080d18; }
+  ::-webkit-scrollbar-thumb { background: #1b2942; border-radius: 8px; }
+  ::-webkit-scrollbar-thumb:hover { background: #27395a; }
+
+  :focus-visible {
+    outline: 2px solid #d4af67;
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  .shell {
+    @apply mx-auto w-full max-w-[1240px] px-6 md:px-10;
+  }
+
+  .eyebrow {
+    @apply text-[11px] uppercase tracking-[0.34em] text-gold-600;
+  }
+
+  .rule {
+    @apply h-px w-full bg-gradient-to-r from-transparent via-white/12 to-transparent;
+  }
+
+  .card {
+    @apply relative overflow-hidden rounded-xl border border-white/8 bg-ink-800/70 shadow-card;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center gap-2 rounded-full bg-gold-600 px-6 py-3 text-[13px] font-semibold uppercase tracking-[0.16em] text-ink-950 transition duration-300 hover:bg-gold-400 hover:shadow-[0_0_40px_-8px_rgba(212,175,103,.7)];
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center gap-2 rounded-full border border-white/16 px-6 py-3 text-[13px] font-semibold uppercase tracking-[0.16em] text-ivory/85 transition duration-300 hover:border-gold-600/70 hover:text-gold-400;
+  }
+
+  /* Reveal-on-scroll: hidden until IntersectionObserver adds .is-in */
+  .reveal {
+    opacity: 0;
+    transform: translateY(26px);
+    transition: opacity 0.9s cubic-bezier(0.22, 0.61, 0.36, 1),
+      transform 0.9s cubic-bezier(0.22, 0.61, 0.36, 1);
+    will-change: opacity, transform;
+  }
+  .reveal.is-in {
+    opacity: 1;
+    transform: none;
+  }
+
+  .grain::after {
+    content: '';
+    position: absolute;
+    inset: -50%;
+    pointer-events: none;
+    opacity: 0.05;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
+    animation: grainShift 1.2s steps(3) infinite;
+  }
+
+  @keyframes grainShift {
+    0% { transform: translate(0, 0); }
+    33% { transform: translate(-3%, 2%); }
+    66% { transform: translate(2%, -3%); }
+    100% { transform: translate(0, 0); }
+  }
+
+  .vignette::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(120% 80% at 50% 0%, transparent 40%, rgba(5, 8, 15, 0.92) 100%),
+      linear-gradient(to bottom, rgba(5, 8, 15, 0.35), rgba(5, 8, 15, 0.86));
+  }
+
+  .link-underline {
+    @apply relative after:absolute after:-bottom-1 after:left-0 after:h-px after:w-0 after:bg-gold-500 after:transition-all after:duration-300 hover:after:w-full;
+  }
+
+  .shimmer-text {
+    background: linear-gradient(100deg, #d4af67 20%, #fff6df 40%, #d4af67 60%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shimmer 6s linear infinite;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .reveal { opacity: 1; transform: none; }
+}

@@ -1,0 +1,12 @@
+[hero] 8 candidates
+[campus] 6 candidates
+[library] 6 candidates
+[lecture] 6 candidates
+[students] 6 candidates
+[lab] 6 candidates
+[graduation] 6 candidates
+[life] 6 candidates
+[rabat] 6 candidates
+[video] 6 candidates
+
+Wrote tools/candidates.json. Run the sheet builder to review.

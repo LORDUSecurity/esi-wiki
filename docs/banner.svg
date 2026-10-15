@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f16"/>
+      <stop offset="0.55" stop-color="#0e1520"/>
+      <stop offset="1" stop-color="#0a0f16"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.72" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#c9a227" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c9a227" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6c46a"/>
+      <stop offset="1" stop-color="#a8801a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="600" fill="url(#ink)"/>
+  <rect width="1600" height="600" fill="url(#glow)"/>
+
+  <!-- hairline frame -->
+  <rect x="34" y="34" width="1532" height="532" fill="none" stroke="#c9a227" stroke-opacity="0.22"/>
+
+  <!-- left: wordmark -->
+  <text x="104" y="196" fill="#c9a227" font-size="26" letter-spacing="9" font-family="'Trebuchet MS', Verdana, sans-serif">École de Sciences de l'Information · Rabat</text>
+  <text x="100" y="316" fill="#f2efe6" font-size="108" font-weight="400" letter-spacing="2">ESI</text>
+  <text x="312" y="316" fill="#c9a227" font-size="108" font-weight="400" letter-spacing="2">Wiki</text>
+  <rect x="104" y="346" width="150" height="2" fill="url(#gold)"/>
+  <text x="104" y="404" fill="#b9c2ce" font-size="31" font-family="'Trebuchet MS', Verdana, sans-serif">A course catalogue, its documents, and an assistant</text>
+  <text x="104" y="446" fill="#b9c2ce" font-size="31" font-family="'Trebuchet MS', Verdana, sans-serif">that answers from those documents — not from memory.</text>
+  <text x="104" y="512" fill="#6f7f92" font-size="25" letter-spacing="3" font-family="'Trebuchet MS', Verdana, sans-serif">DJANGO 5.2 · REACT 18 · SQLITE FTS5 · 104 MODULES · 945 DOCUMENTS</text>
+
+  <!-- right: retrieval graph -->
+  <g stroke="#c9a227" stroke-opacity="0.5" fill="none">
+    <path d="M1170 300 L1290 150"/><path d="M1170 300 L1400 232"/><path d="M1170 300 L1420 352"/>
+    <path d="M1170 300 L1300 470"/><path d="M1170 300 L1060 430"/><path d="M1170 300 L1046 176"/>
+    <path d="M1290 150 L1400 232"/><path d="M1400 232 L1420 352"/><path d="M1420 352 L1300 470"/>
+    <path d="M1300 470 L1060 430"/><path d="M1060 430 L1046 176"/><path d="M1046 176 L1290 150"/>
+  </g>
+  <g fill="#c9a227">
+    <circle cx="1290" cy="150" r="7"/><circle cx="1400" cy="232" r="10"/><circle cx="1420" cy="352" r="6"/>
+    <circle cx="1300" cy="470" r="9"/><circle cx="1060" cy="430" r="6"/><circle cx="1046" cy="176" r="8"/>
+  </g>
+  <circle cx="1170" cy="300" r="19" fill="#f2efe6"/>
+  <circle cx="1170" cy="300" r="30" fill="none" stroke="#f2efe6" stroke-opacity="0.35"/>
+</svg>
