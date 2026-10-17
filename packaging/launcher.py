@@ -44,6 +44,23 @@ def free_port(first: int, attempts: int = 12) -> int:
     return first
 
 
+def read_env_file(path: Path) -> dict:
+    """Names of the variables a `.env` sets to a non-empty value. Values are never kept or shown."""
+    try:
+        lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+    except OSError:
+        return {}
+    found = {}
+    for line in lines:
+        if line.lstrip().startswith("#") or "=" not in line:
+            continue
+        name, _, value = line.partition("=")
+        name = name.strip()
+        if name.endswith("_API_KEY") and value.strip().strip("\"'"):
+            found[name] = True
+    return found
+
+
 def prepare(env: dict) -> Path:
     root = data_root()
     src_db = bundle_root() / "db.sqlite3"
@@ -79,14 +96,20 @@ def prepare(env: dict) -> Path:
     else:
         env.update({name: value for name, value in KEYS.items() if value})
 
-    for name, lane in (("GEMINI_API_KEY", "Gemini"), ("NVIDIA_API_KEY", "NVIDIA"),
-                       ("OPENROUTER_API_KEY", "OpenRouter"), ("OPENAI_API_KEY", "OpenAI")):
+    lanes = (("GEMINI_API_KEY", "Gemini"), ("NVIDIA_API_KEY", "NVIDIA"),
+             ("OPENROUTER_API_KEY", "OpenRouter"), ("OPENAI_API_KEY", "OpenAI"))
+    # The banner runs before Django's settings load the `.env` beside the .exe, so reading
+    # os.environ alone reports "absente" for a key that is in fact configured. Look at both.
+    from_file = read_env_file(root / ".env")
+    for name, lane in lanes:
         if env.get(name):
             print(f"Clé {lane} : présente — le niveau modèle répond.")
+        elif name in from_file:
+            print(f"Clé {lane} : présente (.env à côté de l'.exe) — le niveau modèle répond.")
         elif name not in KEYS:
             print(f"Clé {lane} : absente — Posez un .env à côté de l'.exe ou exportez la variable, "
                   "sinon l'assistant répond depuis les tables.")
-    if env.get("OPENAI_API_KEY"):
+    if env.get("OPENAI_API_KEY") or "OPENAI_API_KEY" in from_file:
         # The one provider here that bills per token; tried last, after the three free lanes.
         print("Attention : OpenAI est payant à l'usage — ce lane n'est essayé qu'en dernier.")
     return root
