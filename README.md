@@ -100,7 +100,7 @@ compiled into the binary (`keys_embed.py` → `embedded_keys.py`, added as a hid
 the recipient to configure. That build is handed over in person or kept in private storage — never
 committed, never released. The **-Keyless** build carries no key at all and ships `.env.example`: it
 reads the recipient's own key from the environment or from a `.env` beside the `.exe`, and it is what
-GitHub Releases publishes (`v1.4`).
+GitHub Releases publishes (`v1.5`).
 
 Both flavours ship without the document folders and with the indexed text stripped from the delivered
 database (`packaging/strip-corpus.py`). Mirrored modules stay in the catalogue and open their original
