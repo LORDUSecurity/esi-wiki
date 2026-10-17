@@ -11,13 +11,19 @@ commits ; les versions correspondent aux paliers fonctionnels du projet, pas à 
   après, par `settings.py`. `packaging/launcher.py` lit maintenant le fichier avant de conclure :
   `Clé OpenRouter : présente (.env à côté de l'.exe)`.
 
-### Publish
-- Release **v1.5** : `esi-wiki-keyless-2026-10-18.zip` (60 014 124 octets), la variante sans clé
-  reconstruite depuis `main` — nom d'école corrigé dans l'interface et bandeau honnête. Le `.env` du
-  destinataire, le `db.sqlite3` et le `frontend/` que l'.exe recopie à côté de lui restent sur ce
-  disque : l'archive porte l'.exe, `_internal/` et le gabarit `.env.example`, 4 353 membres, zéro
-  valeur de clé au balayage, base livrée sans `corpus_fts` mais avec ses 104 modules et 945 documents.
-- v1.4 reste en ligne, datée du 14 octobre : elle montre encore l'ancien nom et l'ancien bandeau.
+### Publication
+- `esi-wiki-keyless-2026-10-18.zip` (60 014 124 octets), la variante sans clé reconstruite depuis
+  `main` — nom d'école corrigé dans l'interface et bandeau honnête. Le `.env` du destinataire, le
+  `db.sqlite3` et le `frontend/` que l'.exe recopie à côté de lui restent sur ce disque : l'archive
+  porte l'.exe, `_internal/` et le gabarit `.env.example`, 4 353 membres, zéro valeur de clé au
+  balayage, base livrée sans `corpus_fts` mais avec ses 104 modules et 945 documents.
+- **Le sample n'est plus hébergé par GitHub.** Les releases v1.4 et v1.5 sont supprimées (tags
+  conservés) et l'archive part sur **Google Drive**, en lecture « tout personne disposant du lien » :
+  `https://drive.google.com/file/d/1uTSKzTckSgYY-K0HperE4LT4kGA6wbDk/view`. Vérifié sans être
+  connectée : le téléchargement anonyme rend exactement les mêmes octets (SHA-256
+  `643a258…f9ef8b`) que le fichier construit ici. Le README pointe désormais sur ce lien.
+- Une archive de 60 Mo passe sous le seuil de téléchargement direct, mais Google affiche quand même sa
+  page « analyse antivirus » : c'est le formulaire `confirm=t`, pas une erreur d'accès.
 
 ## [non publié] — 2026-10-15
 

@@ -99,8 +99,14 @@ Two flavours from one script, for two audiences. The **keyed** build has the own
 compiled into the binary (`keys_embed.py` → `embedded_keys.py`, added as a hidden import): nothing for
 the recipient to configure. That build is handed over in person or kept in private storage — never
 committed, never released. The **-Keyless** build carries no key at all and ships `.env.example`: it
-reads the recipient's own key from the environment or from a `.env` beside the `.exe`, and it is what
-GitHub Releases publishes (`v1.5`).
+reads the recipient's own key from the environment or from a `.env` beside the `.exe`.
+
+**Sample download (keyless, Windows):**
+[esi-wiki-keyless-2026-10-18.zip](https://drive.google.com/file/d/1uTSKzTckSgYY-K0HperE4LT4kGA6wbDk/view?usp=sharing)
+— 60 MB, hosted on Google Drive rather than Releases. Unzip anywhere, double-click `ESI-Wiki.exe`: the
+wiki opens in the browser and the assistant answers from the catalogue tables. Drop **your own** `.env`
+beside the `.exe` (copy `.env.example`) to switch on the model tier; nothing else is configurable.
+The keyed build is not downloadable here — write to the address at the bottom of this file.
 
 Both flavours ship without the document folders and with the indexed text stripped from the delivered
 database (`packaging/strip-corpus.py`). Mirrored modules stay in the catalogue and open their original
